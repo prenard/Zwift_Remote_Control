@@ -1,18 +1,39 @@
+using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 
-class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate {
+class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
+{
+	var app;
+    var my_App_Controller;
 
-    function initialize() {
+    function initialize()
+    {
         MenuInputDelegate.initialize();
     }
 
-    function onMenuItem(item) {
-        if (item == :item_1) {
-            Sys.println("item 1");
-        } else if (item == :item_2) {
-            Sys.println("item 2");
-        }
+    function onMenuItem(item)
+    {
+        app = App.getApp();
+        if (item == :item_0) {app.SendAntCommand("View0");} 
+        else
+        if (item == :item_1) {app.SendAntCommand("View1");} 
+        else
+        if (item == :item_2) {app.SendAntCommand("View2");} 
+        else
+        if (item == :item_3) {app.SendAntCommand("View3");} 
+        else
+        if (item == :item_4) {app.SendAntCommand("View4");}
+        else
+        if (item == :item_5) {app.SendAntCommand("View5");} 
+        else
+        if (item == :item_6) {app.SendAntCommand("View6");} 
+        else
+        if (item == :item_7) {app.SendAntCommand("View7");} 
+        else
+        if (item == :item_8) {app.SendAntCommand("View8");} 
+        else
+        if (item == :item_9) {app.SendAntCommand("View9");}
     }
 
 }

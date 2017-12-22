@@ -19,14 +19,11 @@ class ANT_Generic_CTRL extends Ant.GenericChannel
 
     function initialize()
     {
-		System.println("ANT Sensor - initialize");
-        
         // Get the channel
         chanAssign = new Ant.ChannelAssignment(
             Ant.CHANNEL_TYPE_RX_NOT_TX,
             Ant.NETWORK_PLUS);
         GenericChannel.initialize(method(:onMessage), chanAssign);
-
         // Set the configuration
         deviceCfg = new Ant.DeviceConfig( {
             :deviceNumber => 0,                 //Wildcard our search
@@ -45,9 +42,17 @@ class ANT_Generic_CTRL extends Ant.GenericChannel
 
     function open()
     {
-		System.println("ANT Sensor - open");
+		System.println("Connecting to ANT USB device...");
         // Open the channel
-        GenericChannel.open();
+        if (GenericChannel.open())
+        {
+			System.println("ANT USB device initialization succesful");
+        }
+        else
+        {
+			System.println("ERROR: ANT USB device initialization unsuccesful");
+        }
+        
         searching = true;
         searching_timeout = false;
     }
@@ -84,6 +89,8 @@ class ANT_Generic_CTRL extends Ant.GenericChannel
 	        	searching = false;
     	    	deviceCfg = GenericChannel.getDeviceConfig();
         		System.println("ANT device number = " + deviceCfg.deviceNumber);
+        		System.println("ANT device type = " + deviceCfg.deviceType);
+
         	}
         }
     	Ui.requestUpdate();
@@ -92,6 +99,7 @@ class ANT_Generic_CTRL extends Ant.GenericChannel
 
     function Send_Command(cmd_number)
     {
+        System.println("About to send ANT command number = " + cmd_number);
 		var cmd_number6;
 		var cmd_number7;
 		

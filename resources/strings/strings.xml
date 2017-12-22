@@ -2,7 +2,16 @@
     <string id="AppName">Zwift_Remote_Control</string>
 
     <string id="prompt">Click the menu button</string>
+    
+    <string id="menu_label_0">0 - View</string>
+    <string id="menu_label_1">1 - View</string>
+    <string id="menu_label_2">2 - View</string>
+    <string id="menu_label_3">3 - View</string>
+    <string id="menu_label_4">4 - View</string>
+    <string id="menu_label_5">5 - View</string>
+    <string id="menu_label_6">6 - View</string>
+    <string id="menu_label_7">7 - View</string>
+    <string id="menu_label_8">8 - View</string>
+    <string id="menu_label_9">9 - View</string>
 
-    <string id="menu_label_1">Item 1</string>
-    <string id="menu_label_2">Item 2</string>
 </strings>

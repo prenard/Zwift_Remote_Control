@@ -15,7 +15,7 @@
     <button x="110" y="71" width="80" height="40">
         <state id="stateDefault" bitmap="@Drawables.DefaultElbowFlick" />
         <param name="background">Gfx.COLOR_BLACK</param>
-        <param name="behavior">sendSnapshot</param>
+        <param name="behavior">sendElbowFlick</param>
     </button>
 
 

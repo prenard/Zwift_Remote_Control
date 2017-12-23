@@ -1,12 +1,12 @@
 <menu id="MainMenu">
-    <menu-item id="item_0">@Strings.menu_label_0</menu-item>
-    <menu-item id="item_1">@Strings.menu_label_1</menu-item>
-    <menu-item id="item_2">@Strings.menu_label_2</menu-item>
-    <menu-item id="item_3">@Strings.menu_label_3</menu-item>    
-    <menu-item id="item_4">@Strings.menu_label_4</menu-item>
-    <menu-item id="item_5">@Strings.menu_label_5</menu-item>
-    <menu-item id="item_6">@Strings.menu_label_6</menu-item>    
-    <menu-item id="item_7">@Strings.menu_label_7</menu-item>
-    <menu-item id="item_8">@Strings.menu_label_8</menu-item>
-    <menu-item id="item_9">@Strings.menu_label_9</menu-item>    
+	<menu-item id="item_0" label="@Strings.menu_label_0"/>
+	<menu-item id="item_1" label="@Strings.menu_label_1"/>
+	<menu-item id="item_2" label="@Strings.menu_label_2"/>
+	<menu-item id="item_3" label="@Strings.menu_label_3"/>
+	<menu-item id="item_4" label="@Strings.menu_label_4"/>
+	<menu-item id="item_5" label="@Strings.menu_label_5"/>
+	<menu-item id="item_6" label="@Strings.menu_label_6"/>
+	<menu-item id="item_7" label="@Strings.menu_label_7"/>
+	<menu-item id="item_8" label="@Strings.menu_label_8"/>
+	<menu-item id="item_9" label="@Strings.menu_label_9"/>
 </menu>

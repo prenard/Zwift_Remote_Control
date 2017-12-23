@@ -2,7 +2,9 @@
     <iq:application entry="Zwift_Remote_ControlApp" id="D596309852B3460383702564EC0818C4" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="2.1.1" name="@Strings.AppName" type="watch-app">
 
         <iq:products>
+            <iq:product id="edge1030"/>
             <iq:product id="edge820"/>
+            <iq:product id="edge_1000"/>
         </iq:products>
 
         <iq:permissions>

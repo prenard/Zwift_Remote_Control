@@ -38,4 +38,30 @@ class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
         Ui.pushView(new Rez.Menus.MainMenu(), new Zwift_Remote_ControlMenuDelegate(), Ui.SLIDE_UP);
         return true;
     }
+	function onKey(event)
+    {
+		// Implements events:
+		//
+		//    18 = START
+		//    19 = LAP 
+		//
+
+    	System.println("Device_Type = " + app.Garmin_Device_Type);
+        System.println("Event = " + event.getKey() );
+        
+ 		if(Ui.KEY_LAP == event.getKey())
+ 		{
+        	// 19 - LAP
+        	System.println("Key = LAP");
+        	app.SendAntCommand(app.Lap_Button_Action);
+		}
+ 		else
+ 		if(Ui.KEY_START == event.getKey())
+ 		{
+        	// 18 - START
+        	System.println("Key = START");
+        	app.SendAntCommand(app.Start_Button_Action);
+		}
+ 		
+    }
 }

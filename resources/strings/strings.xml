@@ -1,8 +1,11 @@
 <strings>
-    <string id="AppName">Zwift_Remote_Control</string>
+    <string id="AppName">Zwift Garmin CIQ Remote_Control</string>
 
-    <string id="prompt">Click the menu button</string>
-    
+    <string id="Left">Left</string>
+    <string id="Right">Right</string>
+    <string id="Down">Down</string>
+    <string id="Screenshot">Screenshot</string>
+
     <string id="menu_label_0">0 - View</string>
     <string id="menu_label_1">1 - View</string>
     <string id="menu_label_2">2 - View</string>

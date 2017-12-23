@@ -1,0 +1,20 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+
+    <bitmap id="DefaultSnapshot" filename="images/Snapshot.png" dithering="none" />
+    <bitmap id="DefaultSwitchView" filename="images/SwitchView.png" dithering="none" />
+    <bitmap id="DefaultWave" filename="images/Wave.png" dithering="none" />
+    <bitmap id="DefaultElbowFlick" filename="images/ElbowFlick.png" dithering="none" />
+    
+    <bitmap id="DefaultG" filename="images/g.png" dithering="none" />    
+
+    <bitmap id="DefaultESC" filename="images/esc.png" dithering="none" />
+
+    <bitmap id="DefaultUp" filename="images/cursor-up.png" dithering="none" />
+    <bitmap id="DefaultLeft" filename="images/cursor-left.png" dithering="none" />
+    <bitmap id="DefaultDown" filename="images/cursor-down.png" dithering="none" />
+    <bitmap id="DefaultRight" filename="images/cursor-right.png" dithering="none" />
+
+    <bitmap id="DefaultSpaceBar" filename="images/spacebar.png" dithering="none" />
+    <bitmap id="DefaultEnter" filename="images/enter.png" dithering="none" />
+</resources>

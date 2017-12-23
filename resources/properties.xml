@@ -1,0 +1,35 @@
+<resources>
+	<properties>
+    	<property id="App_Title" type="string">@Strings.AppName</property>
+	    <property id="Lap_Button_Action" type="number">0</property>
+	    <property id="Start_Button_Action" type="number">1</property>
+	</properties>
+
+	<strings>
+    	<string id="App_Title_Title">Application Title</string>
+	    <string id="Lap_Button_Action_Title">Lap Button Action</string>
+	    <string id="Start_Button_Action_Title">Start Button Action</string>
+	</strings>
+	
+	<settings>
+	    <setting propertyKey="@Properties.App_Title" title="@Strings.App_Title_Title">
+	        <settingConfig type="alphaNumeric" readonly="true" />
+	    </setting>
+		<setting propertyKey="@Properties.Lap_Button_Action" title="@Strings.Lap_Button_Action_Title">
+			<settingConfig type="list">
+				<listEntry value="0">@Strings.Left</listEntry>
+				<listEntry value="1">@Strings.Right</listEntry>
+				<listEntry value="2">@Strings.Down</listEntry>
+				<listEntry value="3">@Strings.Screenshot</listEntry>
+			</settingConfig>
+	    </setting>
+		<setting propertyKey="@Properties.Start_Button_Action" title="@Strings.Start_Button_Action_Title">
+			<settingConfig type="list">
+				<listEntry value="0">@Strings.Left</listEntry>
+				<listEntry value="1">@Strings.Right</listEntry>
+				<listEntry value="2">@Strings.Down</listEntry>
+				<listEntry value="3">@Strings.Screenshot</listEntry>
+			</settingConfig>
+	    </setting>
+	</settings>
+</resources>

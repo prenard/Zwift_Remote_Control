@@ -5,7 +5,7 @@
     <bitmap id="DefaultSwitchView" filename="images/SwitchView_080-033.png" dithering="none" />
     <bitmap id="DefaultWave" filename="images/Wave_160-080.png" dithering="none" />
     <bitmap id="DefaultElbowFlick" filename="images/ElbowFlick_080-040.png" dithering="none" />
-
+    
     <bitmap id="DefaultG" filename="images/g_040-041.png" dithering="none" />    
 
     <bitmap id="DefaultESC" filename="images/esc_040-041.png" dithering="none" />

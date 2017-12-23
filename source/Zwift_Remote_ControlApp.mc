@@ -1,6 +1,21 @@
 
 // Minimum CIQ level = 2.1 : Because application use in user interface (UI) Buttons
+//
+//
+// History:
+//
+// 2017-12-23:
+//
+//		* CIQ 2.41 to support Edge 1030
+//
+//      	- need to change menu items
+//				from: <menu-item id="item_1">@Strings.menu_label_1</menu-item>
+//				to: <menu-item id="item_1" label="@Strings.menu_label_1"/>
+//
+// 2017-12-22 - V 00.10
+//
 
+using Toybox.System;
 using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
@@ -11,15 +26,46 @@ class Zwift_Remote_ControlApp extends App.AppBase
 	var Garmin_Device_Type;
     var my_App_Controller;
 	
+	
+	var Lap_Button_Action = "Left";
+	var Start_Button_Action = "Right";
+	
 	var current_view = 0;
 	
     function initialize()
     {
         AppBase.initialize();
 
+		var DeviceSettings = System.getDeviceSettings();
+        System.println("Device - Firmware Version = " + Lang.format("$1$.$2$",DeviceSettings.firmwareVersion));
+        System.println("Device - Part Number = " + DeviceSettings.partNumber);
+        System.println("Device - Screen Height = " + DeviceSettings.screenHeight);
+        System.println("Device - Screen Width = " + DeviceSettings.screenWidth);
+        System.println("Device - Is Touchscreen = " + DeviceSettings.isTouchScreen);
+        
         Garmin_Device_Type = Ui.loadResource(Rez.Strings.Device);
         System.println("Device Type = " + Garmin_Device_Type);
         my_ANT_Generic_CTRL = new ANT_Generic_CTRL();
+
+		var Args = new [3];
+		
+		Args[0] = getProperty("App_Title");
+		Args[1] = getProperty("Lap_Button_Action");
+		Args[2] = getProperty("Start_Button_Action");
+		
+    	System.println("Application Title = " + Args[0]);
+    	System.println("Lap Button Action = " + Args[1]);
+    	System.println("Start Button Action = " + Args[2]);
+  
+  		var Actions = new [4];
+  		Actions[0] = "Left";
+  		Actions[1] = "Right";
+  		Actions[2] = "Down";
+  		Actions[3] = "Screenshot";
+  
+  
+  		Lap_Button_Action = Actions[Args[1]];
+    	Start_Button_Action = Actions[Args[2]];
     }
 
     // onStart() is called on application start up

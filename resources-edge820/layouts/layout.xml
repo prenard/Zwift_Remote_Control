@@ -1,0 +1,70 @@
+<layout id="MainLayout">
+    <drawable class="Background" />
+	<bitmap id="Zwift_Logo" x="1" y="1" filename="../images/Zwift_Logo.png" />
+
+    <button x="110" y="1" width="80" height="33">
+        <state id="stateDefault" bitmap="@Drawables.DefaultSnapshot" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendSnapshot</param>
+    </button>
+    <button x="110" y="36" width="80" height="33">
+        <state id="stateDefault" bitmap="@Drawables.DefaultSwitchView" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendSwitchView</param>
+    </button>
+    <button x="110" y="71" width="80" height="40">
+        <state id="stateDefault" bitmap="@Drawables.DefaultElbowFlick" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendElbowFlick</param>
+    </button>
+
+
+    <button x="1" y="70" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultESC" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendESC</param>
+    </button>
+
+    <button x="1" y="113" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultG" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendG</param>
+    </button>
+    
+    <button x="43" y="113" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultUp" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendUp</param>
+    </button>
+    <button x="1" y="155" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultLeft" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendLeft</param>
+    </button>
+    <button x="43" y="155" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultDown" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendDown</param>
+    </button>
+    <button x="85" y="155" width="40" height="41">
+        <state id="stateDefault" bitmap="@Drawables.DefaultRight" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendRight</param>
+    </button>
+
+
+
+    <button x="3" y="200" width="120" height="18">
+        <state id="stateDefault" bitmap="@Drawables.DefaultSpaceBar" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendSpaceBar</param>
+    </button>
+
+    <button x="130" y="155" width="37" height="51">
+        <state id="stateDefault" bitmap="@Drawables.DefaultEnter" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendEnter</param>
+    </button>
+
+
+</layout>

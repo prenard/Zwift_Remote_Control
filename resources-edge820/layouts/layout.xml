@@ -30,12 +30,12 @@
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendG</param>
     </button>
-    
     <button x="43" y="113" width="40" height="41">
         <state id="stateDefault" bitmap="@Drawables.DefaultUp" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendUp</param>
     </button>
+
     <button x="1" y="155" width="40" height="41">
         <state id="stateDefault" bitmap="@Drawables.DefaultLeft" />
         <param name="background">Gfx.COLOR_BLACK</param>
@@ -51,20 +51,16 @@
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendRight</param>
     </button>
-
-
-
-    <button x="3" y="200" width="120" height="18">
-        <state id="stateDefault" bitmap="@Drawables.DefaultSpaceBar" />
-        <param name="background">Gfx.COLOR_BLACK</param>
-        <param name="behavior">sendSpaceBar</param>
-    </button>
-
     <button x="130" y="155" width="37" height="51">
         <state id="stateDefault" bitmap="@Drawables.DefaultEnter" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendEnter</param>
     </button>
 
+    <button x="3" y="200" width="120" height="18">
+        <state id="stateDefault" bitmap="@Drawables.DefaultSpaceBar" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendSpaceBar</param>
+    </button>
 
 </layout>

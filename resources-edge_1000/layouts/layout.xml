@@ -35,6 +35,11 @@
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendUp</param>
     </button>
+    <button x="180" y="199" width="59" height="81">
+        <state id="stateDefault" bitmap="@Drawables.DefaultEnter" />
+        <param name="background">Gfx.COLOR_BLACK</param>
+        <param name="behavior">sendEnter</param>
+    </button>
 
     <button x="1" y="261" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultLeft" />
@@ -50,12 +55,6 @@
         <state id="stateDefault" bitmap="@Drawables.DefaultRight" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendRight</param>
-    </button>
-
-    <button x="180" y="220" width="59" height="81">
-        <state id="stateDefault" bitmap="@Drawables.DefaultEnter" />
-        <param name="background">Gfx.COLOR_BLACK</param>
-        <param name="behavior">sendEnter</param>
     </button>
 
     <button x="3" y="323" width="232" height="35">

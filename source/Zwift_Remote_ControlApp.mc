@@ -61,7 +61,7 @@ class Zwift_Remote_ControlApp extends App.AppBase
   		Actions[0] = "Left";
   		Actions[1] = "Right";
   		Actions[2] = "Down";
-  		Actions[3] = "Screenshot";
+  		Actions[3] = "Snapshot";
   
   
   		Lap_Button_Action = Actions[Args[1]];

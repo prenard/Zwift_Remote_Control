@@ -386,19 +386,19 @@
 <entry endPc="268439159" name="dc" stackId="1" startPc="268439047"/>
 <entry endPc="268439189" name="dc" stackId="1" startPc="268439164"/>
 <entry endPc="268439615" name="item" stackId="1" startPc="268439217"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_UK445P5VT22B29SEJL0X" stackId="5" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_UAXYNMXG5MHTHOXB4DSM" stackId="8" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_RJI466HMUALQK1ONU8RH" stackId="14" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_7PYD6GU5NMJG88XJ5YDJ" stackId="6" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_08MRCWRMADNVM2N86O0M" stackId="7" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_MSMJNOKSI35EXFLJB854" stackId="10" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_drawable_FEUV15SAVE9GM43N94UP" stackId="2" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_4EJ093L7RN1MHCAIYRNC" stackId="4" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_FWNXEE41SZQYJGUL33PR" stackId="13" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_48BALG25CS1WKAHG2GXD" stackId="11" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_ZH0K7B7ZIUT7YVR9TUMW" stackId="12" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_KO2PAB4C4GYXU4M28TE8" stackId="12" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_5VCPSGD9T8E81CO8W54X" stackId="8" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_4P22TT74IX0PI8VVTOVV" stackId="5" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_90V735S359AM4J3AHBIB" stackId="9" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_EJL89IOX2C3OUV4A9QFR" stackId="13" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_KGQAB7T40QGEI3KK6XLI" stackId="10" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_IZ4UMRDY69QCGGD5K3U9" stackId="4" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_K9AM1M6E3OHT04VG3GOC" stackId="14" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_IE4O6B51EWMW61L5WD3B" stackId="11" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_drawable_XJ5GKNWXKG9YGG6ALX8B" stackId="2" startPc="268440170"/>
 <entry endPc="268442577" name="rez_cmp_local_bitmap_Zwift_Logo" stackId="3" startPc="268440170"/>
-<entry endPc="268442577" name="rez_cmp_local_custom_selectable_5IU72759DH3KNCOGJ9DT" stackId="9" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_F1N6IWF3HK7NCCDCHT3Q" stackId="7" startPc="268440170"/>
+<entry endPc="268442577" name="rez_cmp_local_custom_selectable_KY6IVV39TRHDD9AEUHNX" stackId="6" startPc="268440170"/>
 <entry endPc="268442578" name="dc" stackId="1" startPc="268440158"/>
 </localVars>
 <annotations/>

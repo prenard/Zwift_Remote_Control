@@ -2,18 +2,21 @@
     <drawable class="Background" />
 	<bitmap id="Zwift_Logo" x="1" y="1" filename="../images/Zwift_Logo.png" />
 
-    <button x="162" y="1" width="120" height="49">
+    <button x="160" y="1" width="120" height="49">
         <state id="stateDefault" bitmap="@Drawables.DefaultSnapshot" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedSnapshot" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendSnapshot</param>
     </button>
-    <button x="162" y="52" width="120" height="49">
+    <button x="160" y="52" width="120" height="49">
         <state id="stateDefault" bitmap="@Drawables.DefaultSwitchView" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedSwitchView" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendSwitchView</param>
     </button>
-    <button x="162" y="103" width="120" height="60">
+    <button x="160" y="103" width="120" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultElbowFlick" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedElbowFlick" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendElbowFlick</param>
     </button>
@@ -21,44 +24,52 @@
 
     <button x="1" y="196" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultESC" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedESC" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendESC</param>
     </button>
 
     <button x="1" y="258" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultG" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedG" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendG</param>
     </button>
     <button x="61" y="258" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultUp" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedUp" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendUp</param>
     </button>
     <button x="180" y="258" width="59" height="81">
         <state id="stateDefault" bitmap="@Drawables.DefaultEnter" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedEnter" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendEnter</param>
     </button>
 
     <button x="1" y="320" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultLeft" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedLeft" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendLeft</param>
     </button>
     <button x="61" y="320" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultDown" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedDown" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendDown</param>
     </button>
     <button x="121" y="320" width="58" height="60">
         <state id="stateDefault" bitmap="@Drawables.DefaultRight" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedRight" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendRight</param>
     </button>
 
     <button x="3" y="382" width="232" height="35">
         <state id="stateDefault" bitmap="@Drawables.DefaultSpaceBar" />
+        <state id="stateHighlighted" bitmap="@Drawables.HighlightedSpaceBar" />
         <param name="background">Gfx.COLOR_BLACK</param>
         <param name="behavior">sendSpaceBar</param>
     </button>

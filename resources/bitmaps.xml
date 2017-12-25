@@ -1,20 +1,30 @@
 <resources>
     <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
 
-    <bitmap id="DefaultSnapshot" filename="images/Snapshot_080-033.png" dithering="none" />
-    <bitmap id="DefaultSwitchView" filename="images/SwitchView_080-033.png" dithering="none" />
-    <bitmap id="DefaultWave" filename="images/Wave_160-080.png" dithering="none" />
-    <bitmap id="DefaultElbowFlick" filename="images/ElbowFlick_080-040.png" dithering="none" />
+    <bitmap id="DefaultSnapshot" filename="images/Snapshot.png" dithering="none" />
+    <bitmap id="HighlightedSnapshot" filename="images/Snapshot_Highlighted.png" dithering="none" />
+    <bitmap id="DefaultSwitchView" filename="images/SwitchView.png" dithering="none" />
+    <bitmap id="HighlightedSwitchView" filename="images/SwitchView_Highlighted.png" dithering="none" />
+    <bitmap id="DefaultElbowFlick" filename="images/ElbowFlick.png" dithering="none" />
+    <bitmap id="HighlightedElbowFlick" filename="images/ElbowFlick_Highlighted.png" dithering="none" />
     
-    <bitmap id="DefaultG" filename="images/g_040-041.png" dithering="none" />    
-
-    <bitmap id="DefaultESC" filename="images/esc_040-041.png" dithering="none" />
-
-    <bitmap id="DefaultUp" filename="images/cursor-up_040-041.png" dithering="none" />
-    <bitmap id="DefaultLeft" filename="images/cursor-left_040-041.png" dithering="none" />
-    <bitmap id="DefaultDown" filename="images/cursor-down_040-041.png" dithering="none" />
-    <bitmap id="DefaultRight" filename="images/cursor-right_040-041.png" dithering="none" />
-
-    <bitmap id="DefaultSpaceBar" filename="images/spacebar_120-018.png" dithering="none" />
-    <bitmap id="DefaultEnter" filename="images/enter_037-051.png" dithering="none" />
+    <bitmap id="DefaultG" filename="images/keys-bordered-200dpi/g.png" dithering="none" />    
+    <bitmap id="HighlightedG" filename="images/keys-blank-200dpi/g.png" dithering="none" />
+    
+    <bitmap id="DefaultESC" filename="images/keys-bordered-200dpi/esc.png" dithering="none" />
+    <bitmap id="HighlightedESC" filename="images/keys-blank-200dpi/esc.png" dithering="none" />
+    
+    <bitmap id="DefaultUp" filename="images/keys-bordered-200dpi/cursor-up.png" dithering="none" />
+    <bitmap id="HighlightedUp" filename="images/keys-blank-200dpi/cursor-up.png" dithering="none" />
+    <bitmap id="DefaultLeft" filename="images/keys-bordered-200dpi/cursor-left.png" dithering="none" />
+    <bitmap id="HighlightedLeft" filename="images/keys-blank-200dpi/cursor-left.png" dithering="none" />
+    <bitmap id="DefaultDown" filename="images/keys-bordered-200dpi/cursor-down.png" dithering="none" />
+    <bitmap id="HighlightedDown" filename="images/keys-blank-200dpi/cursor-down.png" dithering="none" />
+    <bitmap id="DefaultRight" filename="images/keys-bordered-200dpi/cursor-right.png" dithering="none" />
+    <bitmap id="HighlightedRight" filename="images/keys-blank-200dpi/cursor-right.png" dithering="none" />
+    
+    <bitmap id="DefaultSpaceBar" filename="images/keys-bordered-200dpi/spacebar.png" dithering="none" />
+    <bitmap id="HighlightedSpaceBar" filename="images/keys-blank-200dpi/spacebar.png" dithering="none" />
+    <bitmap id="DefaultEnter" filename="images/keys-bordered-200dpi/enter.png" dithering="none" />
+    <bitmap id="HighlightedEnter" filename="images/keys-blank-200dpi/enter.png" dithering="none" />
 </resources>

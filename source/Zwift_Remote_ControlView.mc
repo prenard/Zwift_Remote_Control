@@ -26,6 +26,9 @@ class Zwift_Remote_ControlView extends Ui.View
     // Update the view
     function onUpdate(dc)
     {
+		// Make compatible with non touch screen units like Edge 520
+		View.setKeyToSelectableInteraction(true);
+
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
     }

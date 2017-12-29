@@ -1,0 +1,27 @@
+It is not very easy to use your PC keyboard when you are riding on Zwift !
+
+With this CIQ application, you can transform your Garmin Edge into a Zwift Remote Control.
+
+It works with a console relay program on your Windows PC hosting Zwift application.
+
+Installation procedure:
+
+1) Install the Zwift Garmin CIQ Remote Control application on your Garmin device
+2) Download relay program binaries from https://www.dropbox.com/s/959p7bx9pt09gk8/Zwift-CIQ-RC-Relay_V100.zip?dl=0
+3) Unzip these binaries on your Windows PC
+4) Plug 2 ANT USB sticks on your PC (one for Zwift / one for the relay program)
+5) Start the relay program Zwift-CIQ-RC-Relay.exe
+6) Start the Zwift Garmin CIQ Remote Control application on your Garmin device
+7) Start Zwift on your PC
+8) Use your Garmin device as a remote control
+9) When ride is finished you can stop the relay program using Q command
+
+Garmin device Start and Lap buttons can be customized
+Garmin Device menu can be used to access Views 0-9
+
+The application is designed to work with touch screen devices (Edge 820/1000/1030) but it can be used with Edge 520 too using arrows buttons to navigate a across keys.
+
+Release History:
+
+- V1.00 - 2017-12-29
+* Initial version

@@ -6,15 +6,15 @@
     <string id="Down">Down</string>
     <string id="Screenshot">Screenshot</string>
 
-    <string id="menu_label_0">0 - View</string>
-    <string id="menu_label_1">1 - View</string>
-    <string id="menu_label_2">2 - View</string>
-    <string id="menu_label_3">3 - View</string>
-    <string id="menu_label_4">4 - View</string>
-    <string id="menu_label_5">5 - View</string>
-    <string id="menu_label_6">6 - View</string>
-    <string id="menu_label_7">7 - View</string>
-    <string id="menu_label_8">8 - View</string>
-    <string id="menu_label_9">9 - View</string>
+    <string id="menu_label_0">0 - Panorama View</string>
+    <string id="menu_label_1">1 - Default View</string>
+    <string id="menu_label_2">2 - Third person View</string>
+    <string id="menu_label_3">3 - Rider Perpesctive</string>
+    <string id="menu_label_4">4 - Side View</string>
+    <string id="menu_label_5">5 - Rear View</string>
+    <string id="menu_label_6">6 - Head on View</string>
+    <string id="menu_label_7">7 - Spectator View</string>
+    <string id="menu_label_8">8 - Helicopter View</string>
+    <string id="menu_label_9">9 - Bird's eye View</string>
 
 </strings>

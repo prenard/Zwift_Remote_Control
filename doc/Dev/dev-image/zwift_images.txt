@@ -1,0 +1,11 @@
+Blue RGB = 16 / 130 / 196 - Hex = 1082C4
+Orange RGB = 253 / 101 / 27 - Hex = FD651B
+
+
+GIMP:
+
+* Transparence = Colors / Color to Alphaa
+
+Nirmala UI Bold
+
+10 / 138 / 196

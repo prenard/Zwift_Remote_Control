@@ -31,7 +31,10 @@ class Zwift_Remote_ControlApp extends App.AppBase
 	var Start_Button_Action = "Right";
 	
 	var current_view = 0;
-	
+
+	var Remote_Control_View = new [2];
+	var Remote_Control_View_Idx = 0;
+
     function initialize()
     {
         AppBase.initialize();
@@ -63,9 +66,12 @@ class Zwift_Remote_ControlApp extends App.AppBase
   		Actions[2] = "Down";
   		Actions[3] = "Snapshot";
   
-  
   		Lap_Button_Action = Actions[Args[1]];
     	Start_Button_Action = Actions[Args[2]];
+
+		Remote_Control_View[0] = new View_00();
+		Remote_Control_View[1] = new View_01();
+		//Remote_Control_View[2] = new View_02();
     }
 
     // onStart() is called on application start up
@@ -84,7 +90,7 @@ class Zwift_Remote_ControlApp extends App.AppBase
     // Return the initial view of your application here
     function getInitialView()
     {
-        return [ new Zwift_Remote_ControlView(), new Zwift_Remote_ControlDelegate() ];
+        return [ Remote_Control_View[Remote_Control_View_Idx], new Zwift_Remote_ControlDelegate() ];
     }
 
 	// Buttons Management:
@@ -112,6 +118,9 @@ class Zwift_Remote_ControlApp extends App.AppBase
 	// 32787 - 7 = View 7
 	// 32788 - 8 = View 8
 	// 32789 - 9 = View 9
+	// 32790 - Pg Up = FTP Bias Up
+	// 32791 - Pg Down = FTP Bias Down
+	// 32792 - Tab = Skip Block	
 	//
 	
     function SendAntCommand(cmd)
@@ -141,25 +150,31 @@ class Zwift_Remote_ControlApp extends App.AppBase
 		if (cmd.equals("ElbowFlick"))	{my_ANT_Generic_CTRL.Send_Command(32778);}
 		else	
 
-		if (cmd.equals("View0"))	{my_ANT_Generic_CTRL.Send_Command(32780);}
+		if (cmd.equals("View_0"))	{my_ANT_Generic_CTRL.Send_Command(32780);}
 		else	
-		if (cmd.equals("View1"))	{my_ANT_Generic_CTRL.Send_Command(32781);}
+		if (cmd.equals("View_1"))	{my_ANT_Generic_CTRL.Send_Command(32781);}
 		else	
-		if (cmd.equals("View2"))	{my_ANT_Generic_CTRL.Send_Command(32782);}
+		if (cmd.equals("View_2"))	{my_ANT_Generic_CTRL.Send_Command(32782);}
 		else	
-		if (cmd.equals("View3"))	{my_ANT_Generic_CTRL.Send_Command(32783);}
+		if (cmd.equals("View_3"))	{my_ANT_Generic_CTRL.Send_Command(32783);}
 		else	
-		if (cmd.equals("View4"))	{my_ANT_Generic_CTRL.Send_Command(32784);}
+		if (cmd.equals("View_4"))	{my_ANT_Generic_CTRL.Send_Command(32784);}
 		else	
-		if (cmd.equals("View5"))	{my_ANT_Generic_CTRL.Send_Command(32785);}
+		if (cmd.equals("View_5"))	{my_ANT_Generic_CTRL.Send_Command(32785);}
 		else	
-		if (cmd.equals("View6"))	{my_ANT_Generic_CTRL.Send_Command(32786);}
+		if (cmd.equals("View_6"))	{my_ANT_Generic_CTRL.Send_Command(32786);}
 		else	
-		if (cmd.equals("View7"))	{my_ANT_Generic_CTRL.Send_Command(32787);}
+		if (cmd.equals("View_7"))	{my_ANT_Generic_CTRL.Send_Command(32787);}
 		else	
-		if (cmd.equals("View8"))	{my_ANT_Generic_CTRL.Send_Command(32788);}
+		if (cmd.equals("View_8"))	{my_ANT_Generic_CTRL.Send_Command(32788);}
 		else	
-		if (cmd.equals("View9"))	{my_ANT_Generic_CTRL.Send_Command(32789);}
+		if (cmd.equals("View_9"))	{my_ANT_Generic_CTRL.Send_Command(32789);}
+		else	
+		if (cmd.equals("PgUp"))		{my_ANT_Generic_CTRL.Send_Command(32790);}
+		else	
+		if (cmd.equals("PgDown"))	{my_ANT_Generic_CTRL.Send_Command(32791);}
+		else	
+		if (cmd.equals("Tab"))		{my_ANT_Generic_CTRL.Send_Command(32792);}
 
     }
 

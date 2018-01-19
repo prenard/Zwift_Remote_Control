@@ -15,25 +15,25 @@ class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
     function onMenuItem(item)
     {
         app = App.getApp();
-        if (item == :item_0) {app.SendAntCommand("View0");} 
+        if (item == :item_0) {app.SendAntCommand("View_0");} 
         else
-        if (item == :item_1) {app.SendAntCommand("View1");} 
+        if (item == :item_1) {app.SendAntCommand("View_1");} 
         else
-        if (item == :item_2) {app.SendAntCommand("View2");} 
+        if (item == :item_2) {app.SendAntCommand("View_2");} 
         else
-        if (item == :item_3) {app.SendAntCommand("View3");} 
+        if (item == :item_3) {app.SendAntCommand("View_3");} 
         else
-        if (item == :item_4) {app.SendAntCommand("View4");}
+        if (item == :item_4) {app.SendAntCommand("View_4");}
         else
-        if (item == :item_5) {app.SendAntCommand("View5");} 
+        if (item == :item_5) {app.SendAntCommand("View_5");} 
         else
-        if (item == :item_6) {app.SendAntCommand("View6");} 
+        if (item == :item_6) {app.SendAntCommand("View_6");} 
         else
-        if (item == :item_7) {app.SendAntCommand("View7");} 
+        if (item == :item_7) {app.SendAntCommand("View_7");} 
         else
-        if (item == :item_8) {app.SendAntCommand("View8");} 
+        if (item == :item_8) {app.SendAntCommand("View_8");} 
         else
-        if (item == :item_9) {app.SendAntCommand("View9");}
+        if (item == :item_9) {app.SendAntCommand("View_9");}
     }
 
 }

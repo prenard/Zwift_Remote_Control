@@ -1,0 +1,83 @@
+<resources>
+	<layout id="Layout_00">
+    	<drawable class="Background" />
+		<!--  Line 1 -->
+    	<button x="13" y="5" width="50" height="50">
+        	<state id="stateDefault" bitmap="@Drawables.DefaultGraph" />
+	        <state id="stateHighlighted" bitmap="@Drawables.HighlightedGraph" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendGraph</param>
+    	</button>
+		<bitmap id="Zwift_Logo" x="75" y="5" filename="../images/zwift_logo.png" />
+	    <button x="138" y="5" width="50" height="50">
+    	    <state id="stateDefault" bitmap="@Drawables.DefaultSnapshot" />
+        	<state id="stateHighlighted" bitmap="@Drawables.HighlightedSnapshot" />
+	        <param name="background">Gfx.COLOR_BLACK</param>
+    	    <param name="behavior">sendSnapshot</param>
+	    </button>
+		<!--  Line 2 -->
+    	<button x="13" y="60" width="50" height="50">
+	        <state id="stateDefault" bitmap="@Drawables.DefaultSwitchView" />
+	        <state id="stateHighlighted" bitmap="@Drawables.HighlightedSwitchView" />
+	        <param name="background">Gfx.COLOR_BLACK</param>
+	        <param name="behavior">sendSwitchView</param>
+	    </button>
+    	<button x="138" y="60" width="50" height="50">
+        	<state id="stateDefault" bitmap="@Drawables.DefaultElbowFlick" />
+	        <state id="stateHighlighted" bitmap="@Drawables.HighlightedElbowFlick" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+	        <param name="behavior">sendElbowFlick</param>
+    	</button>
+		<!--  Line 3 -->
+    	<button x="14" y="229" width="75" height="75">
+        	<state id="stateDefault" bitmap="@Drawables.Default_Left" />
+	        <state id="stateHighlighted" bitmap="@Drawables.Highlighted_Left" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendLeft</param>
+    	</button>
+    	<button x="104" y="229" width="75" height="75">
+        	<state id="stateDefault" bitmap="@Drawables.Default_Down" />
+	        <state id="stateHighlighted" bitmap="@Drawables.Highlighted_Down" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendDown</param>
+    	</button>
+    	<button x="193" y="229" width="75" height="75">
+        	<state id="stateDefault" bitmap="@Drawables.Default_Right" />
+	        <state id="stateHighlighted" bitmap="@Drawables.Highlighted_Right" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendRight</param>
+    	</button>
+		<!--  Line 4 -->
+    	<button x="11" y="324" width="260" height="75">
+        	<state id="stateDefault" bitmap="@Drawables.Default_SpaceBar" />
+	        <state id="stateHighlighted" bitmap="@Drawables.Highlighted_SpaceBar" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendSpaceBar</param>
+	    </button>
+
+	</layout>
+	<layout id="Layout_01">
+    	<drawable class="Background" />
+		<!--  Line 1 -->
+		<bitmap id="Zwift_Logo" x="75" y="5" filename="../images/zwift_logo.png" />
+	    <button x="138" y="5" width="50" height="50">
+    	    <state id="stateDefault" bitmap="@Drawables.DefaultSkipBlock" />
+        	<state id="stateHighlighted" bitmap="@Drawables.HighlightedSkipBlock" />
+	        <param name="background">Gfx.COLOR_BLACK</param>
+    	    <param name="behavior">sendSkipBlock</param>
+	    </button>
+		<!--  Line 3 -->
+    	<button x="13" y="115" width="50" height="50">
+        	<state id="stateDefault" bitmap="@Drawables.DefaultFtpBiasUp" />
+	        <state id="stateHighlighted" bitmap="@Drawables.HighlightedFtpBiasUp" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendPgUp</param>
+    	</button>
+    	<button x="138" y="115" width="50" height="50">
+        	<state id="stateDefault" bitmap="@Drawables.DefaultFtpBiasDown" />
+	        <state id="stateHighlighted" bitmap="@Drawables.HighlightedFtpBiasDown" />
+    	    <param name="background">Gfx.COLOR_BLACK</param>
+        	<param name="behavior">sendPgDown</param>
+    	</button>
+	</layout>
+</resources>

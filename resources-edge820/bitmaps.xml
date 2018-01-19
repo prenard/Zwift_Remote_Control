@@ -3,28 +3,32 @@
 
     <bitmap id="DefaultSnapshot" filename="images/Snapshot.png" dithering="none" />
     <bitmap id="HighlightedSnapshot" filename="images/Snapshot_Highlighted.png" dithering="none" />
-    <bitmap id="DefaultSwitchView" filename="images/SwitchView.png" dithering="none" />
-    <bitmap id="HighlightedSwitchView" filename="images/SwitchView_Highlighted.png" dithering="none" />
-    <bitmap id="DefaultElbowFlick" filename="images/ElbowFlick.png" dithering="none" />
-    <bitmap id="HighlightedElbowFlick" filename="images/ElbowFlick_Highlighted.png" dithering="none" />
+    <bitmap id="DefaultSwitchView" filename="images/switchview.png" dithering="none" />
+    <bitmap id="HighlightedSwitchView" filename="images/switchview_Highlighted.png" dithering="none" />
+
+    <bitmap id="DefaultElbowFlick" filename="images/elbow-flick.png" dithering="none" />
+    <bitmap id="HighlightedElbowFlick" filename="images/elbow-flick_Highlighted.png" dithering="none" />
     
-    <bitmap id="DefaultG" filename="images/keys-bordered-200dpi/g.png" dithering="none" />    
-    <bitmap id="HighlightedG" filename="images/keys-blank-200dpi/g.png" dithering="none" />
+
+    <bitmap id="DefaultGraph" filename="images/graph.png" dithering="none" />    
+    <bitmap id="HighlightedGraph" filename="images/graph_highlighted.png" dithering="none" />
+
+    <bitmap id="Default_Left" filename="images/left.png" dithering="none" />
+    <bitmap id="Highlighted_Left" filename="images/left_highlighted.png" dithering="none" />
+    <bitmap id="Default_Down" filename="images/down.png" dithering="none" />
+    <bitmap id="Highlighted_Down" filename="images/down_highlighted.png" dithering="none" />
+    <bitmap id="Default_Right" filename="images/right.png" dithering="none" />
+    <bitmap id="Highlighted_Right" filename="images/right_highlighted.png" dithering="none" />
     
-    <bitmap id="DefaultESC" filename="images/keys-bordered-200dpi/esc.png" dithering="none" />
-    <bitmap id="HighlightedESC" filename="images/keys-blank-200dpi/esc.png" dithering="none" />
-    
-    <bitmap id="DefaultUp" filename="images/keys-bordered-200dpi/cursor-up.png" dithering="none" />
-    <bitmap id="HighlightedUp" filename="images/keys-blank-200dpi/cursor-up.png" dithering="none" />
-    <bitmap id="DefaultLeft" filename="images/keys-bordered-200dpi/cursor-left.png" dithering="none" />
-    <bitmap id="HighlightedLeft" filename="images/keys-blank-200dpi/cursor-left.png" dithering="none" />
-    <bitmap id="DefaultDown" filename="images/keys-bordered-200dpi/cursor-down.png" dithering="none" />
-    <bitmap id="HighlightedDown" filename="images/keys-blank-200dpi/cursor-down.png" dithering="none" />
-    <bitmap id="DefaultRight" filename="images/keys-bordered-200dpi/cursor-right.png" dithering="none" />
-    <bitmap id="HighlightedRight" filename="images/keys-blank-200dpi/cursor-right.png" dithering="none" />
-    
-    <bitmap id="DefaultSpaceBar" filename="images/keys-bordered-200dpi/spacebar.png" dithering="none" />
-    <bitmap id="HighlightedSpaceBar" filename="images/keys-blank-200dpi/spacebar.png" dithering="none" />
-    <bitmap id="DefaultEnter" filename="images/keys-bordered-200dpi/enter.png" dithering="none" />
-    <bitmap id="HighlightedEnter" filename="images/keys-blank-200dpi/enter.png" dithering="none" />
+    <bitmap id="Default_SpaceBar" filename="images/spacebar.png" dithering="none" />
+    <bitmap id="Highlighted_SpaceBar" filename="images/spacebar_highlighted.png" dithering="none" />
+
+    <bitmap id="DefaultSkipBlock" filename="images/skipblock.png" dithering="none" />
+    <bitmap id="HighlightedSkipBlock" filename="images/skipblock_highlighted.png" dithering="none" />
+    <bitmap id="DefaultFtpBiasUp" filename="images/ftp_bias_up.png" dithering="none" />
+    <bitmap id="HighlightedFtpBiasUp" filename="images/ftp_bias_up_highlighted.png" dithering="none" />
+    <bitmap id="DefaultFtpBiasDown" filename="images/ftp_bias_down.png" dithering="none" />
+    <bitmap id="HighlightedFtpBiasDown" filename="images/ftp_bias_down_highlighted.png" dithering="none" />
+
+
 </resources>

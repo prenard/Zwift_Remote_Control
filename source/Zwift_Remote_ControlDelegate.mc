@@ -20,16 +20,20 @@ class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
     function sendSpaceBar() 	{app.SendAntCommand("SpaceBar");}
     function sendEnter() 		{app.SendAntCommand("Enter");}
     function sendG() 			{app.SendAntCommand("G");}
+    function sendGraph() 		{app.SendAntCommand("G");}
     function sendESC() 			{app.SendAntCommand("ESC");}
     function sendSnapshot() 	{app.SendAntCommand("Snapshot");}
     function sendElbowFlick() 	{app.SendAntCommand("ElbowFlick");}
-
+    function sendPgUp() 		{app.SendAntCommand("PgUp");}
+    function sendPgDown() 		{app.SendAntCommand("PgDown");}
+    function sendSkipBlock()	{app.SendAntCommand("Tab");}
+        
     function sendSwitchView()
     {
     	app.current_view = (app.current_view + 1) % 10;
-    	var view = "View" +  app.current_view;
+    	var view = "View_" +  app.current_view;
     	//System.println("View = " + view);
-    	app.SendAntCommand("View" + app.current_view);
+    	app.SendAntCommand(view);
     }
 
 
@@ -38,6 +42,7 @@ class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
         Ui.pushView(new Rez.Menus.MainMenu(), new Zwift_Remote_ControlMenuDelegate(), Ui.SLIDE_UP);
         return true;
     }
+
 	function onKey(event)
     {
 		// Implements events:
@@ -64,4 +69,33 @@ class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
 		}
  		
     }
+
+	function onSwipe( swipeEvent )
+	{
+        System.println("onSwipe = " + swipeEvent.getDirection());
+		if (swipeEvent.getDirection() == Ui.SWIPE_UP)
+		{
+			System.println("onSwipe = Swipe_Up");
+		}
+		else
+		if (swipeEvent.getDirection() == Ui.SWIPE_DOWN)
+		{
+			System.println("onSwipe = Swipe_Down");
+		}
+		if (swipeEvent.getDirection() == Ui.SWIPE_RIGHT)
+		{
+			System.println("onSwipe = Swipe_Right");
+			app.Remote_Control_View_Idx = (app.Remote_Control_View_Idx + app.Remote_Control_View.size() - 1) % app.Remote_Control_View.size();
+			System.println("Remote_Control_View_Idx = " + app.Remote_Control_View_Idx);
+        	//Ui.switchToView(app.Remote_Control_View[app.Remote_Control_View_Idx], app.myZwift_Remote_ControlDelegate, Ui.SLIDE_RIGHT);
+        	Ui.switchToView(app.Remote_Control_View[app.Remote_Control_View_Idx], self, Ui.SLIDE_RIGHT);
+		}
+		if (swipeEvent.getDirection() == Ui.SWIPE_LEFT)
+		{
+			System.println("onSwipe = Swipe_Left");
+			app.Remote_Control_View_Idx = (app.Remote_Control_View_Idx + 1) % app.Remote_Control_View.size();
+			System.println("Remote_Control_View_Idx = " + app.Remote_Control_View_Idx);
+        	Ui.switchToView(app.Remote_Control_View[app.Remote_Control_View_Idx], self, Ui.SLIDE_LEFT);
+		}
+	}
 }

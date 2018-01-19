@@ -252,182 +252,127 @@
 <entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="34" pc="268440603" symbol="onMenuItem"/>
 <entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="36" pc="268440629" symbol="onMenuItem"/>
 <entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="36" pc="268440640" symbol="onMenuItem"/>
-<entry filename="Rez" lineNum="30" pc="268440667" symbol="initialize"/>
-<entry filename="Rez" lineNum="31" pc="268440671" symbol="initialize"/>
-<entry filename="Rez" lineNum="32" pc="268440689" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268440741" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268440793" symbol="initialize"/>
-<entry filename="Rez" lineNum="35" pc="268440845" symbol="initialize"/>
-<entry filename="Rez" lineNum="36" pc="268440897" symbol="initialize"/>
-<entry filename="Rez" lineNum="37" pc="268440949" symbol="initialize"/>
-<entry filename="Rez" lineNum="38" pc="268441001" symbol="initialize"/>
-<entry filename="Rez" lineNum="39" pc="268441053" symbol="initialize"/>
-<entry filename="Rez" lineNum="40" pc="268441105" symbol="initialize"/>
-<entry filename="Rez" lineNum="41" pc="268441157" symbol="initialize"/>
-<entry filename="Rez" lineNum="79" pc="268441210" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="83" pc="268441222" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="84" pc="268441246" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="85" pc="268441509" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="86" pc="268441610" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="87" pc="268441873" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="88" pc="268442136" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="89" pc="268442399" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="90" pc="268442662" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="91" pc="268442925" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="92" pc="268443188" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="95" pc="268443451" symbol="Layout_00"/>
-<entry filename="Rez" lineNum="104" pc="268443559" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="108" pc="268443571" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="109" pc="268443595" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="110" pc="268443696" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="111" pc="268443959" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="112" pc="268444222" symbol="Layout_01"/>
-<entry filename="Rez" lineNum="115" pc="268444485" symbol="Layout_01"/>
+<entry filename="Rez" lineNum="29" pc="268440667" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268440671" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268440689" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268440741" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268440793" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268440845" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268440897" symbol="initialize"/>
+<entry filename="Rez" lineNum="36" pc="268440949" symbol="initialize"/>
+<entry filename="Rez" lineNum="37" pc="268441001" symbol="initialize"/>
+<entry filename="Rez" lineNum="38" pc="268441053" symbol="initialize"/>
+<entry filename="Rez" lineNum="39" pc="268441105" symbol="initialize"/>
+<entry filename="Rez" lineNum="40" pc="268441157" symbol="initialize"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
-<entry id="53" method="true" symbol="Layout_01"/>
-<entry id="52" method="true" symbol="Layout_00"/>
 <entry id="8389101" method="true" symbol="onSwipe"/>
-<entry field="true" id="29" symbol="DefaultSwitchView"/>
-<entry field="true" id="35" symbol="Default_Left"/>
-<entry field="true" id="76" symbol="searching_timeout"/>
+<entry field="true" id="50" symbol="searching_timeout"/>
 <entry field="true" id="19" symbol="Lap_Button_Action"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="56" symbol="Left"/>
+<entry field="true" id="30" symbol="Left"/>
 <entry field="true" id="17" symbol="my_ANT_Generic_CTRL"/>
-<entry field="true" id="31" symbol="DefaultElbowFlick"/>
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry field="true" id="23" symbol="Remote_Control_View_Idx"/>
 <entry id="8389256" method="true" symbol="open"/>
-<entry field="true" id="34" symbol="HighlightedGraph"/>
-<entry id="82" method="true" symbol="sendDown"/>
+<entry id="56" method="true" symbol="sendDown"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
-<entry id="79" method="true" symbol="closeSensor"/>
-<entry id="51" object="true" symbol="MainMenu"/>
-<entry field="true" id="78" symbol="command_number"/>
-<entry field="true" id="55" symbol="Lap_Button_Action_Title"/>
+<entry id="53" method="true" symbol="closeSensor"/>
+<entry id="27" object="true" symbol="MainMenu"/>
+<entry field="true" id="52" symbol="command_number"/>
+<entry field="true" id="29" symbol="Lap_Button_Action_Title"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="8389897" symbol="stateDefault"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry field="true" id="36" symbol="Highlighted_Left"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="30" symbol="HighlightedSwitchView"/>
 <entry field="true" id="8389270" symbol="messagePeriod"/>
-<entry field="true" id="45" symbol="DefaultFtpBiasUp"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="32" symbol="HighlightedElbowFlick"/>
 <entry field="true" id="8389245" symbol="deviceType"/>
 <entry id="10" object="true" symbol="Zwift_Remote_ControlDelegate"/>
-<entry field="true" id="8389103" symbol="behavior"/>
 <entry id="14" object="true" symbol="Zwift_Remote_ControlMenuDelegate"/>
-<entry field="true" id="74" symbol="chanAssign"/>
-<entry field="true" id="37" symbol="Default_Down"/>
+<entry field="true" id="48" symbol="chanAssign"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="54" symbol="Down"/>
-<entry field="true" id="58" symbol="AppName"/>
-<entry id="87" method="true" symbol="sendEnter"/>
-<entry field="true" id="8389898" symbol="stateHighlighted"/>
-<entry field="true" id="40" symbol="Highlighted_Right"/>
+<entry field="true" id="28" symbol="Down"/>
+<entry field="true" id="32" symbol="AppName"/>
+<entry id="61" method="true" symbol="sendEnter"/>
 <entry field="true" id="8389244" symbol="deviceNumber"/>
-<entry id="90" method="true" symbol="sendESC"/>
-<entry field="true" id="48" symbol="HighlightedFtpBiasDown"/>
-<entry id="86" method="true" symbol="sendSpaceBar"/>
+<entry id="64" method="true" symbol="sendESC"/>
+<entry id="60" method="true" symbol="sendSpaceBar"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="106" symbol="item_9"/>
-<entry id="105" symbol="item_8"/>
-<entry id="104" symbol="item_7"/>
-<entry id="103" symbol="item_6"/>
-<entry id="102" symbol="item_5"/>
-<entry id="101" symbol="item_4"/>
-<entry id="100" symbol="item_3"/>
-<entry id="99" symbol="item_2"/>
-<entry id="98" symbol="item_1"/>
-<entry id="97" symbol="item_0"/>
+<entry id="82" symbol="item_9"/>
+<entry id="81" symbol="item_8"/>
+<entry id="80" symbol="item_7"/>
+<entry id="79" symbol="item_6"/>
+<entry id="78" symbol="item_5"/>
+<entry id="77" symbol="item_4"/>
+<entry id="76" symbol="item_3"/>
+<entry id="75" symbol="item_2"/>
+<entry id="74" symbol="item_1"/>
+<entry id="73" symbol="item_0"/>
 <entry field="true" id="15" symbol="app"/>
 <entry field="true" id="21" symbol="current_view"/>
-<entry id="96" method="true" symbol="sendSwitchView"/>
-<entry field="true" id="41" symbol="Default_SpaceBar"/>
-<entry field="true" id="50" symbol="LauncherIcon"/>
-<entry field="true" id="67" symbol="App_Title_Title"/>
+<entry id="70" method="true" symbol="sendSwitchView"/>
+<entry field="true" id="41" symbol="App_Title_Title"/>
 <entry id="8388634" module="true" symbol="Ant"/>
-<entry field="true" id="60" symbol="menu_label_9"/>
-<entry field="true" id="62" symbol="menu_label_8"/>
-<entry field="true" id="61" symbol="menu_label_7"/>
-<entry field="true" id="64" symbol="menu_label_6"/>
-<entry field="true" id="63" symbol="menu_label_5"/>
-<entry field="true" id="66" symbol="menu_label_4"/>
-<entry field="true" id="65" symbol="menu_label_3"/>
-<entry field="true" id="70" symbol="menu_label_2"/>
-<entry field="true" id="68" symbol="menu_label_1"/>
-<entry field="true" id="71" symbol="menu_label_0"/>
-<entry id="84" method="true" symbol="sendRight"/>
-<entry field="true" id="49" symbol="Zwift_Logo"/>
+<entry field="true" id="34" symbol="menu_label_9"/>
+<entry field="true" id="36" symbol="menu_label_8"/>
+<entry field="true" id="35" symbol="menu_label_7"/>
+<entry field="true" id="38" symbol="menu_label_6"/>
+<entry field="true" id="37" symbol="menu_label_5"/>
+<entry field="true" id="40" symbol="menu_label_4"/>
+<entry field="true" id="39" symbol="menu_label_3"/>
+<entry field="true" id="44" symbol="menu_label_2"/>
+<entry field="true" id="42" symbol="menu_label_1"/>
+<entry field="true" id="45" symbol="menu_label_0"/>
+<entry id="58" method="true" symbol="sendRight"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="92" method="true" symbol="sendElbowFlick"/>
-<entry field="true" id="38" symbol="Highlighted_Down"/>
+<entry id="66" method="true" symbol="sendElbowFlick"/>
 <entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
-<entry field="true" id="8389065" symbol="locY"/>
-<entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-<entry id="93" method="true" symbol="sendPgUp"/>
-<entry field="true" id="72" symbol="DEVICE_TYPE"/>
+<entry id="67" method="true" symbol="sendPgUp"/>
+<entry field="true" id="46" symbol="DEVICE_TYPE"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="88" method="true" symbol="sendG"/>
-<entry field="true" id="28" symbol="HighlightedSnapshot"/>
+<entry id="62" method="true" symbol="sendG"/>
 <entry id="9" object="true" symbol="ANT_Generic_CTRL"/>
-<entry field="true" id="42" symbol="Highlighted_SpaceBar"/>
 <entry field="true" id="20" symbol="Start_Button_Action"/>
 <entry field="true" id="22" symbol="Remote_Control_View"/>
-<entry id="80" method="true" symbol="onMessage"/>
-<entry field="true" id="59" symbol="Start_Button_Action_Title"/>
+<entry id="54" method="true" symbol="onMessage"/>
+<entry field="true" id="33" symbol="Start_Button_Action_Title"/>
 <entry field="true" id="16" symbol="my_App_Controller"/>
 <entry field="true" id="8389271" symbol="radioFrequency"/>
 <entry field="true" id="8389246" symbol="transmissionType"/>
-<entry field="true" id="73" symbol="PERIOD"/>
+<entry field="true" id="47" symbol="PERIOD"/>
 <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
-<entry field="true" id="8389067" symbol="height"/>
-<entry id="94" method="true" symbol="sendPgDown"/>
-<entry field="true" id="69" symbol="Screenshot"/>
-<entry id="83" method="true" symbol="sendUp"/>
+<entry id="68" method="true" symbol="sendPgDown"/>
+<entry field="true" id="43" symbol="Screenshot"/>
+<entry id="57" method="true" symbol="sendUp"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry field="true" id="43" symbol="DefaultSkipBlock"/>
-<entry field="true" id="75" symbol="searching"/>
-<entry field="true" id="46" symbol="HighlightedFtpBiasUp"/>
+<entry field="true" id="49" symbol="searching"/>
 <entry id="26" module="true" symbol="Layouts"/>
-<entry field="true" id="27" symbol="DefaultSnapshot"/>
 <entry field="true" id="8389274" symbol="searchThreshold"/>
-<entry field="true" id="57" symbol="Right"/>
+<entry field="true" id="31" symbol="Right"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="24" method="true" symbol="SendAntCommand"/>
-<entry field="true" id="77" symbol="deviceCfg"/>
-<entry field="true" id="8389892" symbol="background"/>
-<entry id="85" method="true" symbol="sendLeft"/>
+<entry field="true" id="51" symbol="deviceCfg"/>
+<entry id="59" method="true" symbol="sendLeft"/>
 <entry field="true" id="18" symbol="Garmin_Device_Type"/>
-<entry id="8389345" symbol="rezId"/>
-<entry field="true" id="8389425" object="true" symbol="Device"/>
-<entry field="true" id="39" symbol="Default_Right"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="8389066" symbol="width"/>
-<entry id="95" method="true" symbol="sendSkipBlock"/>
+<entry id="69" method="true" symbol="sendSkipBlock"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry field="true" id="44" symbol="HighlightedSkipBlock"/>
 <entry id="25" module="true" symbol="Menus"/>
 <entry id="13" object="true" symbol="Zwift_Remote_ControlApp"/>
-<entry id="91" method="true" symbol="sendSnapshot"/>
+<entry id="65" method="true" symbol="sendSnapshot"/>
 <entry id="12" object="true" symbol="View_01"/>
 <entry id="11" object="true" symbol="View_00"/>
-<entry field="true" id="33" symbol="DefaultGraph"/>
-<entry field="true" id="47" symbol="DefaultFtpBiasDown"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry id="89" method="true" symbol="sendGraph"/>
-<entry id="81" method="true" symbol="Send_Command"/>
+<entry id="63" method="true" symbol="sendGraph"/>
+<entry id="55" method="true" symbol="Send_Command"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436002" name="event" stackId="3" startPc="268435922"/>
@@ -455,23 +400,6 @@
 <entry endPc="268439070" name="state" stackId="1" startPc="268439065"/>
 <entry endPc="268440246" name="cmd" stackId="1" startPc="268439137"/>
 <entry endPc="268440667" name="item" stackId="1" startPc="268440269"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_drawable_A0O9QKM5S0EVV4500NC3" stackId="2" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_8I7CDVWQHRM6BU462ENX" stackId="8" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_OS0YHUQGVETNSTGJYFMH" stackId="7" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_16M7DUVUATYE159115V1" stackId="11" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_34YWNP5TWVU918E5CEXB" stackId="3" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_1E6JCSSH2CW6QW6JVGWQ" stackId="5" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_YK8JYK6W6BAQPR9IWERX" stackId="10" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_DCRPMW9ZXH5C7DWSJY1C" stackId="9" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_custom_selectable_5716N2Y4EGYBZVJR1R9R" stackId="6" startPc="268441222"/>
-<entry endPc="268443558" name="rez_cmp_local_bitmap_Zwift_Logo" stackId="4" startPc="268441222"/>
-<entry endPc="268443559" name="dc" stackId="1" startPc="268441210"/>
-<entry endPc="268444542" name="rez_cmp_local_custom_selectable_OMXVUIXR00HUUDVQE0BT" stackId="4" startPc="268443571"/>
-<entry endPc="268444542" name="rez_cmp_local_custom_selectable_P0BQP8PO0W0C5Z5R19J3" stackId="6" startPc="268443571"/>
-<entry endPc="268444542" name="rez_cmp_local_bitmap_Zwift_Logo" stackId="3" startPc="268443571"/>
-<entry endPc="268444542" name="rez_cmp_local_custom_drawable_RVYHYB5LU2ESSYIW6KNO" stackId="2" startPc="268443571"/>
-<entry endPc="268444542" name="rez_cmp_local_custom_selectable_RVX3J1ZAKTVJMOEL2UZV" stackId="5" startPc="268443571"/>
-<entry endPc="268444543" name="dc" stackId="1" startPc="268443559"/>
 </localVars>
 <annotations/>
 <functions>
@@ -624,14 +552,6 @@
 <functionEntry accessMode="public" name="initialize" parent="MainMenu">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Layout_00" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="Layout_01" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
-</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
@@ -641,14 +561,14 @@
 <dataEntry offset="531" parentId="globals" symbolId="View_00" type="class"/>
 <dataEntry offset="610" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry offset="689" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="912" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="951" parentId="Menus" symbolId="MainMenu" type="class"/>
-<dataEntry offset="998" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="1029" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="1060" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="1107" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="1290" parentId="globals" symbolId="ANT_Generic_CTRL" type="class"/>
-<dataEntry offset="1425" parentId="globals" symbolId="View_01" type="class"/>
-<dataEntry offset="1504" parentId="globals" symbolId="Zwift_Remote_ControlDelegate" type="class"/>
+<dataEntry offset="720" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="759" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="806" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="837" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="868" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="899" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1074" parentId="globals" symbolId="ANT_Generic_CTRL" type="class"/>
+<dataEntry offset="1209" parentId="globals" symbolId="View_01" type="class"/>
+<dataEntry offset="1288" parentId="globals" symbolId="Zwift_Remote_ControlDelegate" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

@@ -1,0 +1,34 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+
+    <bitmap id="DefaultSnapshot" filename="images/Snapshot.png" dithering="none" />
+    <bitmap id="HighlightedSnapshot" filename="images/Snapshot_Highlighted.png" dithering="none" />
+    <bitmap id="DefaultSwitchView" filename="images/switchview.png" dithering="none" />
+    <bitmap id="HighlightedSwitchView" filename="images/switchview_Highlighted.png" dithering="none" />
+
+    <bitmap id="DefaultElbowFlick" filename="images/elbow-flick.png" dithering="none" />
+    <bitmap id="HighlightedElbowFlick" filename="images/elbow-flick_Highlighted.png" dithering="none" />
+    
+
+    <bitmap id="DefaultGraph" filename="images/graph.png" dithering="none" />    
+    <bitmap id="HighlightedGraph" filename="images/graph_highlighted.png" dithering="none" />
+
+    <bitmap id="Default_Left" filename="images/left.png" dithering="none" />
+    <bitmap id="Highlighted_Left" filename="images/left_highlighted.png" dithering="none" />
+    <bitmap id="Default_Down" filename="images/down.png" dithering="none" />
+    <bitmap id="Highlighted_Down" filename="images/down_highlighted.png" dithering="none" />
+    <bitmap id="Default_Right" filename="images/right.png" dithering="none" />
+    <bitmap id="Highlighted_Right" filename="images/right_highlighted.png" dithering="none" />
+    
+    <bitmap id="Default_SpaceBar" filename="images/spacebar.png" dithering="none" />
+    <bitmap id="Highlighted_SpaceBar" filename="images/spacebar_highlighted.png" dithering="none" />
+
+    <bitmap id="DefaultSkipBlock" filename="images/skipblock.png" dithering="none" />
+    <bitmap id="HighlightedSkipBlock" filename="images/skipblock_highlighted.png" dithering="none" />
+    <bitmap id="DefaultFtpBiasUp" filename="images/ftp_bias_up.png" dithering="none" />
+    <bitmap id="HighlightedFtpBiasUp" filename="images/ftp_bias_up_highlighted.png" dithering="none" />
+    <bitmap id="DefaultFtpBiasDown" filename="images/ftp_bias_down.png" dithering="none" />
+    <bitmap id="HighlightedFtpBiasDown" filename="images/ftp_bias_down_highlighted.png" dithering="none" />
+
+
+</resources>

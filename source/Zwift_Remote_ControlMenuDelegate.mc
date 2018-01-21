@@ -5,7 +5,7 @@ using Toybox.System as Sys;
 class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
 {
 	var app;
-    var my_App_Controller;
+    //var my_App_Controller;
 
     function initialize()
     {

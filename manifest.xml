@@ -4,6 +4,7 @@
             <iq:product id="edge1030"/>
             <iq:product id="edge820"/>
             <iq:product id="edge_1000"/>
+            <iq:product id="edge_520"/>
         </iq:products>
         <iq:permissions>
             <iq:uses-permission id="Ant"/>

@@ -23,5 +23,8 @@ The application is designed to work with touch screen devices (Edge 820/1000/103
 
 Release History:
 
+- V1.05 - 2018-01-21
+* Update Views
+* Sync with Relay Program 1.05
 - V1.00 - 2017-12-29
 * Initial version

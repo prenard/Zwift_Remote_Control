@@ -4,6 +4,12 @@
 //
 // History:
 //
+// 2018-01-21 - V 01.05
+//
+//		* CIQ 2.42
+//      * Update Views
+//      * Sync with Relay Program V1.05
+//
 // 2017-12-23:
 //
 //		* CIQ 2.41 to support Edge 1030
@@ -72,6 +78,7 @@ class Zwift_Remote_ControlApp extends App.AppBase
 		Remote_Control_View[0] = new View_00();
 		Remote_Control_View[1] = new View_01();
 		//Remote_Control_View[2] = new View_02();
+
     }
 
     // onStart() is called on application start up

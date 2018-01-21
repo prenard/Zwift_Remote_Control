@@ -1,8 +1,9 @@
+using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
 class View_00 extends Ui.View
  {
-
+	
     function initialize()
     {
         View.initialize();
@@ -27,7 +28,12 @@ class View_00 extends Ui.View
     function onUpdate(dc)
     {
 		// Make compatible with non touch screen units like Edge 520
-		//View.setKeyToSelectableInteraction(true);
+
+        if (!System.getDeviceSettings().isTouchScreen)
+		{
+			View.setKeyToSelectableInteraction(true);
+		}
+
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);

@@ -4,7 +4,7 @@ using Toybox.WatchUi as Ui;
 class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
 {
 	var app;
-    var my_App_Controller;
+    //var my_App_Controller;
 
     function initialize()
     {

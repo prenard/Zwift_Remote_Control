@@ -1,6 +1,6 @@
 <resources>
 	<properties>
-    	<property id="App_Title" type="string">@Strings.AppName</property>
+    	<property id="App_Title" type="string">Zwift Garmin CIQ Remote Control</property>
 	    <property id="Lap_Button_Action" type="number">0</property>
 	    <property id="Start_Button_Action" type="number">1</property>
 	</properties>

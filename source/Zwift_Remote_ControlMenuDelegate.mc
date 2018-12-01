@@ -34,6 +34,7 @@ class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
         if (item == :item_8) {app.SendAntCommand("View_8");} 
         else
         if (item == :item_9) {app.SendAntCommand("View_9");}
+        else
+        if (item == :item_A) {app.SendAntCommand("DevicesPairing");}
     }
-
 }

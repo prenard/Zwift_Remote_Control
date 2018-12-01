@@ -24,6 +24,7 @@ class Zwift_Remote_ControlDelegate extends Ui.BehaviorDelegate
     function sendESC() 			{app.SendAntCommand("ESC");}
     function sendSnapshot() 	{app.SendAntCommand("Snapshot");}
     function sendElbowFlick() 	{app.SendAntCommand("ElbowFlick");}
+    function sendDevicesPairing()	{app.SendAntCommand("DevicesPairing");}
     function sendPgUp() 		{app.SendAntCommand("PgUp");}
     function sendPgDown() 		{app.SendAntCommand("PgDown");}
     function sendSkipBlock()	{app.SendAntCommand("Tab");}

@@ -9,4 +9,5 @@
 	<menu-item id="item_7" label="@Strings.menu_label_7"/>
 	<menu-item id="item_8" label="@Strings.menu_label_8"/>
 	<menu-item id="item_9" label="@Strings.menu_label_9"/>
+	<menu-item id="item_A" label="@Strings.menu_label_A"/>
 </menu>

@@ -1,428 +1,494 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="20" pc="268435456" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="23" pc="268435460" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="26" pc="268435518" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="28" pc="268435560" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="37" pc="268435710" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="40" pc="268435736" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="43" pc="268435747" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="45" pc="268435751" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="47" pc="268435772" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="49" pc="268435792" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="53" pc="268435816" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="56" pc="268435837" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="57" pc="268435847" symbol="open"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="60" pc="268435858" symbol="closeSensor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="62" pc="268435862" symbol="closeSensor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="65" pc="268435881" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="69" pc="268435885" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="73" pc="268435898" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="75" pc="268435922" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="76" pc="268435941" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="77" pc="268435965" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="79" pc="268435979" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="80" pc="268435989" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="85" pc="268436005" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="87" pc="268436029" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="89" pc="268436040" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="90" pc="268436050" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="91" pc="268436075" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="92" pc="268436111" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="96" pc="268436153" symbol="onMessage"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="100" pc="268436170" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="102" pc="268436174" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="103" pc="268436198" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="104" pc="268436198" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="106" pc="268436198" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="108" pc="268436209" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="109" pc="268436213" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="113" pc="268436223" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="114" pc="268436233" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="117" pc="268436240" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="119" pc="268436259" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="121" pc="268436267" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="122" pc="268436280" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="123" pc="268436293" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="124" pc="268436306" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="125" pc="268436319" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="126" pc="268436332" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="127" pc="268436348" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="128" pc="268436358" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="130" pc="268436368" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="131" pc="268436396" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\ANT_Generic_CTRL.mc" lineNum="132" pc="268436410" symbol="Send_Command"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="9" pc="268436431" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="11" pc="268436435" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="12" pc="268436453" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="16" pc="268436477" symbol="sendDown"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="16" pc="268436481" symbol="sendDown"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="17" pc="268436505" symbol="sendUp"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="17" pc="268436509" symbol="sendUp"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="18" pc="268436533" symbol="sendRight"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="18" pc="268436537" symbol="sendRight"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="19" pc="268436561" symbol="sendLeft"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="19" pc="268436565" symbol="sendLeft"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="20" pc="268436589" symbol="sendSpaceBar"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="20" pc="268436593" symbol="sendSpaceBar"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="21" pc="268436617" symbol="sendEnter"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="21" pc="268436621" symbol="sendEnter"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="22" pc="268436645" symbol="sendG"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="22" pc="268436649" symbol="sendG"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="23" pc="268436673" symbol="sendGraph"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="23" pc="268436677" symbol="sendGraph"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="24" pc="268436701" symbol="sendESC"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="24" pc="268436705" symbol="sendESC"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="25" pc="268436729" symbol="sendSnapshot"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="25" pc="268436733" symbol="sendSnapshot"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="26" pc="268436757" symbol="sendElbowFlick"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="26" pc="268436761" symbol="sendElbowFlick"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="27" pc="268436785" symbol="sendPgUp"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="27" pc="268436789" symbol="sendPgUp"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="28" pc="268436813" symbol="sendPgDown"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="28" pc="268436817" symbol="sendPgDown"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="29" pc="268436841" symbol="sendSkipBlock"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="29" pc="268436845" symbol="sendSkipBlock"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="31" pc="268436869" symbol="sendSwitchView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="33" pc="268436873" symbol="sendSwitchView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="34" pc="268436913" symbol="sendSwitchView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="36" pc="268436935" symbol="sendSwitchView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="40" pc="268436956" symbol="onMenu"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="42" pc="268436960" symbol="onMenu"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="43" pc="268437044" symbol="onMenu"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="46" pc="268437048" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="54" pc="268437052" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="55" pc="268437090" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="57" pc="268437125" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="60" pc="268437152" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="61" pc="268437175" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="64" pc="268437210" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="67" pc="268437237" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="68" pc="268437260" symbol="onKey"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="73" pc="268437296" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="75" pc="268437300" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="76" pc="268437335" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="78" pc="268437362" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="81" pc="268437388" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="83" pc="268437415" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="85" pc="268437441" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="87" pc="268437468" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="88" pc="268437491" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="89" pc="268437573" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="91" pc="268437611" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="93" pc="268437673" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="95" pc="268437700" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="96" pc="268437723" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="97" pc="268437781" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlDelegate.mc" lineNum="98" pc="268437819" symbol="onSwipe"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="7" pc="268437882" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="9" pc="268437886" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="13" pc="268437905" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="15" pc="268437909" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="16" pc="268437944" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="17" pc="268437979" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="23" pc="268438017" symbol="onShow"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="28" pc="268438022" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="32" pc="268438026" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="34" pc="268438053" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="39" pc="268438076" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_00.mc" lineNum="45" pc="268438097" symbol="onHide"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="6" pc="268438102" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="8" pc="268438106" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="12" pc="268438125" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="14" pc="268438129" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="15" pc="268438164" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="16" pc="268438199" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="22" pc="268438237" symbol="onShow"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="27" pc="268438242" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="33" pc="268438246" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\View_01.mc" lineNum="39" pc="268438267" symbol="onHide"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="10" pc="268438272" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="12" pc="268438276" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="16" pc="268438297" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="19" pc="268438318" symbol="setColor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="21" pc="268438322" symbol="setColor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="24" pc="268438333" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="26" pc="268438337" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlBackground.mc" lineNum="27" pc="268438373" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="44" pc="268438386" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="46" pc="268438390" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="48" pc="268438408" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="49" pc="268438425" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="50" pc="268438477" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="51" pc="268438507" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="52" pc="268438537" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="53" pc="268438567" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="55" pc="268438597" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="56" pc="268438640" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="57" pc="268438670" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="59" pc="268438700" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="61" pc="268438708" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="62" pc="268438732" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="63" pc="268438756" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="65" pc="268438780" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="66" pc="268438810" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="67" pc="268438840" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="69" pc="268438870" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="70" pc="268438878" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="71" pc="268438891" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="72" pc="268438904" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="73" pc="268438917" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="75" pc="268438930" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="76" pc="268438949" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="78" pc="268438968" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="79" pc="268439004" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="85" pc="268439041" symbol="onStart"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="87" pc="268439045" symbol="onStart"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="88" pc="268439066" symbol="onStart"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="89" pc="268439096" symbol="onStart"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="93" pc="268439115" symbol="onStop"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="98" pc="268439120" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="100" pc="268439124" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="133" pc="268439187" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="135" pc="268439191" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="137" pc="268439215" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="137" pc="268439234" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="139" pc="268439260" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="139" pc="268439279" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="141" pc="268439305" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="141" pc="268439324" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="143" pc="268439350" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="143" pc="268439369" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="145" pc="268439395" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="145" pc="268439414" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="147" pc="268439440" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="147" pc="268439459" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="149" pc="268439485" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="149" pc="268439504" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="151" pc="268439530" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="151" pc="268439549" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="153" pc="268439575" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="153" pc="268439594" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="155" pc="268439620" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="155" pc="268439639" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="157" pc="268439665" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="157" pc="268439684" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="160" pc="268439710" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="160" pc="268439729" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="162" pc="268439755" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="162" pc="268439774" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="164" pc="268439800" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="164" pc="268439819" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="166" pc="268439845" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="166" pc="268439864" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="168" pc="268439890" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="168" pc="268439909" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="170" pc="268439935" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="170" pc="268439954" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="172" pc="268439980" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="172" pc="268439999" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="174" pc="268440025" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="174" pc="268440044" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="176" pc="268440070" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="176" pc="268440089" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="178" pc="268440115" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="178" pc="268440134" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="180" pc="268440160" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="180" pc="268440179" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="182" pc="268440205" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="182" pc="268440224" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="184" pc="268440250" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlApp.mc" lineNum="184" pc="268440269" symbol="SendAntCommand"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="10" pc="268440296" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="12" pc="268440300" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="15" pc="268440319" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="17" pc="268440323" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="18" pc="268440346" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="18" pc="268440357" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="20" pc="268440383" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="20" pc="268440394" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="22" pc="268440420" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="22" pc="268440431" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="24" pc="268440457" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="24" pc="268440468" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="26" pc="268440494" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="26" pc="268440505" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="28" pc="268440531" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="28" pc="268440542" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="30" pc="268440568" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="30" pc="268440579" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="32" pc="268440605" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="32" pc="268440616" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="34" pc="268440642" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="34" pc="268440653" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="36" pc="268440679" symbol="onMenuItem"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Zwift_Remote_Control\\.\\source\\Zwift_Remote_ControlMenuDelegate.mc" lineNum="36" pc="268440690" symbol="onMenuItem"/>
-<entry filename="Rez" lineNum="29" pc="268440717" symbol="initialize"/>
-<entry filename="Rez" lineNum="30" pc="268440721" symbol="initialize"/>
-<entry filename="Rez" lineNum="31" pc="268440739" symbol="initialize"/>
-<entry filename="Rez" lineNum="32" pc="268440791" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268440843" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268440895" symbol="initialize"/>
-<entry filename="Rez" lineNum="35" pc="268440947" symbol="initialize"/>
-<entry filename="Rez" lineNum="36" pc="268440999" symbol="initialize"/>
-<entry filename="Rez" lineNum="37" pc="268441051" symbol="initialize"/>
-<entry filename="Rez" lineNum="38" pc="268441103" symbol="initialize"/>
-<entry filename="Rez" lineNum="39" pc="268441155" symbol="initialize"/>
-<entry filename="Rez" lineNum="40" pc="268441207" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="3" lineNum="12" pc="268435478" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="4" lineNum="16" pc="268435502" symbol="sendDown"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="4" lineNum="16" pc="268435506" symbol="sendDown"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="5" lineNum="17" pc="268435530" symbol="sendUp"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="5" lineNum="17" pc="268435534" symbol="sendUp"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="6" lineNum="18" pc="268435558" symbol="sendRight"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="6" lineNum="18" pc="268435562" symbol="sendRight"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="7" lineNum="19" pc="268435586" symbol="sendLeft"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="7" lineNum="19" pc="268435590" symbol="sendLeft"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="8" lineNum="20" pc="268435614" symbol="sendSpaceBar"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="8" lineNum="20" pc="268435618" symbol="sendSpaceBar"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="9" lineNum="21" pc="268435642" symbol="sendEnter"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="9" lineNum="21" pc="268435646" symbol="sendEnter"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="10" lineNum="22" pc="268435670" symbol="sendG"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="10" lineNum="22" pc="268435674" symbol="sendG"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="11" lineNum="23" pc="268435698" symbol="sendGraph"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="11" lineNum="23" pc="268435702" symbol="sendGraph"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="12" lineNum="24" pc="268435726" symbol="sendESC"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="12" lineNum="24" pc="268435730" symbol="sendESC"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="13" lineNum="25" pc="268435754" symbol="sendSnapshot"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="13" lineNum="25" pc="268435758" symbol="sendSnapshot"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="14" lineNum="26" pc="268435782" symbol="sendElbowFlick"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="14" lineNum="26" pc="268435786" symbol="sendElbowFlick"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="15" lineNum="27" pc="268435810" symbol="sendDevicesPairing"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="15" lineNum="27" pc="268435814" symbol="sendDevicesPairing"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="16" lineNum="28" pc="268435838" symbol="sendPgUp"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="16" lineNum="28" pc="268435842" symbol="sendPgUp"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="17" lineNum="29" pc="268435866" symbol="sendPgDown"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="17" lineNum="29" pc="268435870" symbol="sendPgDown"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="18" lineNum="30" pc="268435894" symbol="sendSkipBlock"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="18" lineNum="30" pc="268435898" symbol="sendSkipBlock"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="19" lineNum="32" pc="268435922" symbol="sendSwitchView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="19" lineNum="34" pc="268435926" symbol="sendSwitchView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="19" lineNum="35" pc="268435966" symbol="sendSwitchView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="19" lineNum="37" pc="268435988" symbol="sendSwitchView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="20" lineNum="41" pc="268436009" symbol="onMenu"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="20" lineNum="43" pc="268436013" symbol="onMenu"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="20" lineNum="44" pc="268436097" symbol="onMenu"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="47" pc="268436101" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="55" pc="268436105" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="56" pc="268436143" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="58" pc="268436178" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="61" pc="268436205" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="62" pc="268436228" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="65" pc="268436263" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="68" pc="268436290" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="21" lineNum="69" pc="268436313" symbol="onKey"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="74" pc="268436349" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="76" pc="268436353" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="77" pc="268436388" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="79" pc="268436415" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="82" pc="268436441" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="84" pc="268436468" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="86" pc="268436494" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="88" pc="268436521" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="89" pc="268436544" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="90" pc="268436626" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="92" pc="268436664" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="94" pc="268436726" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="96" pc="268436753" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="97" pc="268436776" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="98" pc="268436834" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlDelegate.mc" id="22" lineNum="99" pc="268436872" symbol="onSwipe"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="20" pc="268436935" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="23" pc="268436939" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="26" pc="268436997" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="28" pc="268437039" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="37" pc="268437189" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="24" lineNum="40" pc="268437215" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="43" pc="268437226" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="45" pc="268437230" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="47" pc="268437251" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="49" pc="268437271" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="53" pc="268437295" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="56" pc="268437316" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="25" lineNum="57" pc="268437326" symbol="open"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="26" lineNum="60" pc="268437337" symbol="closeSensor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="26" lineNum="62" pc="268437341" symbol="closeSensor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="65" pc="268437360" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="69" pc="268437364" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="73" pc="268437377" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="75" pc="268437401" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="76" pc="268437420" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="77" pc="268437444" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="79" pc="268437458" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="80" pc="268437468" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="85" pc="268437484" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="87" pc="268437508" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="89" pc="268437519" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="90" pc="268437529" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="91" pc="268437554" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="92" pc="268437590" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="27" lineNum="96" pc="268437632" symbol="onMessage"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="100" pc="268437649" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="102" pc="268437653" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="103" pc="268437677" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="104" pc="268437677" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="106" pc="268437677" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="108" pc="268437688" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="109" pc="268437692" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="113" pc="268437702" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="114" pc="268437712" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="117" pc="268437719" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="119" pc="268437738" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="121" pc="268437746" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="122" pc="268437759" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="123" pc="268437772" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="124" pc="268437785" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="125" pc="268437798" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="126" pc="268437811" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="127" pc="268437827" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="128" pc="268437837" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="130" pc="268437847" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="131" pc="268437875" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\ANT_Generic_CTRL.mc" id="28" lineNum="132" pc="268437889" symbol="Send_Command"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="30" lineNum="7" pc="268437910" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="30" lineNum="9" pc="268437914" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="31" lineNum="13" pc="268437933" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="31" lineNum="15" pc="268437937" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="31" lineNum="16" pc="268437972" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="31" lineNum="17" pc="268438007" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="32" lineNum="23" pc="268438045" symbol="onShow"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="33" lineNum="28" pc="268438050" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="33" lineNum="32" pc="268438054" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="33" lineNum="34" pc="268438081" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="33" lineNum="39" pc="268438104" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_00.mc" id="34" lineNum="45" pc="268438125" symbol="onHide"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="36" lineNum="10" pc="268438130" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="36" lineNum="12" pc="268438134" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="15" pc="268438153" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="17" pc="268438157" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="18" pc="268438180" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="18" pc="268438191" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="20" pc="268438217" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="20" pc="268438228" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="22" pc="268438254" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="22" pc="268438265" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="24" pc="268438291" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="24" pc="268438302" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="26" pc="268438328" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="26" pc="268438339" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="28" pc="268438365" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="28" pc="268438376" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="30" pc="268438402" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="30" pc="268438413" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="32" pc="268438439" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="32" pc="268438450" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="34" pc="268438476" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="34" pc="268438487" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="36" pc="268438513" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="36" pc="268438524" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="38" pc="268438550" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlMenuDelegate.mc" id="37" lineNum="38" pc="268438561" symbol="onMenuItem"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="39" lineNum="6" pc="268438588" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="39" lineNum="8" pc="268438592" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="40" lineNum="12" pc="268438611" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="40" lineNum="14" pc="268438615" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="40" lineNum="15" pc="268438650" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="40" lineNum="16" pc="268438685" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="41" lineNum="22" pc="268438723" symbol="onShow"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="42" lineNum="27" pc="268438728" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="42" lineNum="33" pc="268438732" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\View_01.mc" id="43" lineNum="39" pc="268438753" symbol="onHide"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="44" pc="268438758" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="46" pc="268438762" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="48" pc="268438780" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="49" pc="268438797" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="50" pc="268438849" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="51" pc="268438879" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="52" pc="268438909" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="53" pc="268438939" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="55" pc="268438969" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="56" pc="268439012" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="57" pc="268439042" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="59" pc="268439072" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="61" pc="268439080" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="62" pc="268439104" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="63" pc="268439128" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="65" pc="268439152" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="66" pc="268439182" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="67" pc="268439212" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="69" pc="268439242" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="70" pc="268439250" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="71" pc="268439263" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="72" pc="268439276" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="73" pc="268439289" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="75" pc="268439302" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="76" pc="268439321" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="78" pc="268439340" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="45" lineNum="79" pc="268439376" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="46" lineNum="85" pc="268439413" symbol="onStart"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="46" lineNum="87" pc="268439417" symbol="onStart"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="46" lineNum="88" pc="268439438" symbol="onStart"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="46" lineNum="89" pc="268439468" symbol="onStart"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="47" lineNum="93" pc="268439487" symbol="onStop"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="48" lineNum="98" pc="268439492" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="48" lineNum="100" pc="268439496" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="133" pc="268439559" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="135" pc="268439563" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="137" pc="268439587" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="137" pc="268439606" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="139" pc="268439632" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="139" pc="268439651" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="141" pc="268439677" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="141" pc="268439696" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="143" pc="268439722" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="143" pc="268439741" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="145" pc="268439767" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="145" pc="268439786" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="147" pc="268439812" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="147" pc="268439831" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="149" pc="268439857" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="149" pc="268439876" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="151" pc="268439902" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="151" pc="268439921" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="153" pc="268439947" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="153" pc="268439966" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="155" pc="268439992" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="155" pc="268440011" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="157" pc="268440037" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="157" pc="268440056" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="159" pc="268440082" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="159" pc="268440101" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="161" pc="268440127" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="161" pc="268440146" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="163" pc="268440172" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="163" pc="268440191" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="165" pc="268440217" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="165" pc="268440236" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="167" pc="268440262" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="167" pc="268440281" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="169" pc="268440307" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="169" pc="268440326" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="171" pc="268440352" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="171" pc="268440371" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="173" pc="268440397" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="173" pc="268440416" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="175" pc="268440442" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="175" pc="268440461" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="177" pc="268440487" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="177" pc="268440506" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="179" pc="268440532" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="179" pc="268440551" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="181" pc="268440577" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="181" pc="268440596" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="183" pc="268440622" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="183" pc="268440641" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="185" pc="268440667" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlApp.mc" id="49" lineNum="185" pc="268440686" symbol="SendAntCommand"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="51" lineNum="10" pc="268440713" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="51" lineNum="12" pc="268440717" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="51" lineNum="16" pc="268440738" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="52" lineNum="19" pc="268440759" symbol="setColor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="52" lineNum="21" pc="268440763" symbol="setColor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="53" lineNum="24" pc="268440774" symbol="draw"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="53" lineNum="26" pc="268440778" symbol="draw"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Zwift_Remote_Control\\source\\Zwift_Remote_ControlBackground.mc" id="53" lineNum="27" pc="268440814" symbol="draw"/>
+<entry filename="Rez" id="59" lineNum="32" pc="268440827" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="33" pc="268440831" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="34" pc="268440849" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="35" pc="268440901" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="36" pc="268440953" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="37" pc="268441005" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="38" pc="268441057" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="39" pc="268441109" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="40" pc="268441161" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="41" pc="268441213" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="42" pc="268441265" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="43" pc="268441317" symbol="initialize"/>
+<entry filename="Rez" id="59" lineNum="44" pc="268441369" symbol="initialize"/>
+<entry filename="Rez" id="62" lineNum="84" pc="268441422" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="88" pc="268441434" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="89" pc="268441458" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="90" pc="268441721" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="91" pc="268441822" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="92" pc="268442085" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="93" pc="268442348" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="94" pc="268442611" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="95" pc="268442874" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="96" pc="268443137" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="97" pc="268443400" symbol="Layout_00"/>
+<entry filename="Rez" id="62" lineNum="100" pc="268443663" symbol="Layout_00"/>
+<entry filename="Rez" id="63" lineNum="111" pc="268443771" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="115" pc="268443783" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="116" pc="268443807" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="117" pc="268443908" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="118" pc="268444171" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="119" pc="268444434" symbol="Layout_01"/>
+<entry filename="Rez" id="63" lineNum="122" pc="268444697" symbol="Layout_01"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
+<entry id="53" method="true" symbol="Layout_01"/>
+<entry id="52" method="true" symbol="Layout_00"/>
 <entry id="8389101" method="true" symbol="onSwipe"/>
-<entry field="true" id="51" symbol="searching_timeout"/>
-<entry field="true" id="19" symbol="Lap_Button_Action"/>
+<entry field="true" id="29" symbol="DefaultSwitchView"/>
+<entry field="true" id="35" symbol="Default_Left"/>
+<entry field="true" id="77" symbol="searching_timeout"/>
+<entry field="true" id="18" symbol="Lap_Button_Action"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="31" symbol="Left"/>
-<entry field="true" id="16" symbol="my_ANT_Generic_CTRL"/>
+<entry field="true" id="56" symbol="Left"/>
+<entry field="true" id="15" symbol="my_ANT_Generic_CTRL"/>
+<entry field="true" id="31" symbol="DefaultElbowFlick"/>
 <entry id="8389097" method="true" symbol="onKey"/>
-<entry field="true" id="23" symbol="Remote_Control_View_Idx"/>
+<entry field="true" id="22" symbol="Remote_Control_View_Idx"/>
 <entry id="8389256" method="true" symbol="open"/>
-<entry id="57" method="true" symbol="sendDown"/>
+<entry field="true" id="34" symbol="HighlightedGraph"/>
+<entry id="83" method="true" symbol="sendDown"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
-<entry id="54" method="true" symbol="closeSensor"/>
-<entry id="28" object="true" symbol="MainMenu"/>
-<entry field="true" id="53" symbol="command_number"/>
-<entry field="true" id="30" symbol="Lap_Button_Action_Title"/>
+<entry id="80" method="true" symbol="closeSensor"/>
+<entry id="51" object="true" symbol="MainMenu"/>
+<entry field="true" id="79" symbol="command_number"/>
+<entry field="true" id="55" symbol="Lap_Button_Action_Title"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8389897" symbol="stateDefault"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="36" symbol="Highlighted_Left"/>
 <entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="30" symbol="HighlightedSwitchView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
 <entry field="true" id="8389270" symbol="messagePeriod"/>
+<entry field="true" id="45" symbol="DefaultFtpBiasUp"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="32" symbol="HighlightedElbowFlick"/>
 <entry field="true" id="8389245" symbol="deviceType"/>
-<entry id="10" object="true" symbol="Zwift_Remote_ControlDelegate"/>
-<entry id="14" object="true" symbol="Zwift_Remote_ControlMenuDelegate"/>
-<entry field="true" id="49" symbol="chanAssign"/>
+<entry id="9" object="true" symbol="Zwift_Remote_ControlDelegate"/>
+<entry field="true" id="8389103" symbol="behavior"/>
+<entry id="12" object="true" symbol="Zwift_Remote_ControlMenuDelegate"/>
+<entry field="true" id="75" symbol="chanAssign"/>
+<entry field="true" id="37" symbol="Default_Down"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389131" method="true" symbol="setColor"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="29" symbol="Down"/>
-<entry field="true" id="33" symbol="AppName"/>
-<entry id="62" method="true" symbol="sendEnter"/>
+<entry field="true" id="54" symbol="Down"/>
+<entry field="true" id="59" symbol="AppName"/>
+<entry id="88" method="true" symbol="sendEnter"/>
+<entry field="true" id="8389898" symbol="stateHighlighted"/>
+<entry field="true" id="40" symbol="Highlighted_Right"/>
 <entry field="true" id="8389244" symbol="deviceNumber"/>
-<entry id="65" method="true" symbol="sendESC"/>
-<entry id="61" method="true" symbol="sendSpaceBar"/>
+<entry id="91" method="true" symbol="sendESC"/>
+<entry field="true" id="48" symbol="HighlightedFtpBiasDown"/>
+<entry id="87" method="true" symbol="sendSpaceBar"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="83" symbol="item_9"/>
-<entry id="82" symbol="item_8"/>
-<entry id="81" symbol="item_7"/>
-<entry id="80" symbol="item_6"/>
-<entry id="79" symbol="item_5"/>
-<entry id="78" symbol="item_4"/>
-<entry id="77" symbol="item_3"/>
-<entry id="76" symbol="item_2"/>
-<entry id="75" symbol="item_1"/>
-<entry id="74" symbol="item_0"/>
-<entry field="true" id="15" symbol="app"/>
-<entry field="true" id="21" symbol="current_view"/>
-<entry id="71" method="true" symbol="sendSwitchView"/>
-<entry field="true" id="27" symbol="LauncherIcon"/>
-<entry field="true" id="42" symbol="App_Title_Title"/>
+<entry id="109" symbol="item_A"/>
+<entry id="108" symbol="item_9"/>
+<entry id="107" symbol="item_8"/>
+<entry id="106" symbol="item_7"/>
+<entry id="105" symbol="item_6"/>
+<entry id="104" symbol="item_5"/>
+<entry id="103" symbol="item_4"/>
+<entry id="102" symbol="item_3"/>
+<entry id="101" symbol="item_2"/>
+<entry id="100" symbol="item_1"/>
+<entry id="99" symbol="item_0"/>
+<entry field="true" id="24" symbol="app"/>
+<entry field="true" id="20" symbol="current_view"/>
+<entry id="98" method="true" symbol="sendSwitchView"/>
+<entry field="true" id="41" symbol="Default_SpaceBar"/>
+<entry field="true" id="50" symbol="LauncherIcon"/>
+<entry field="true" id="68" symbol="App_Title_Title"/>
+<entry field="true" id="58" symbol="menu_label_A"/>
 <entry id="8388634" module="true" symbol="Ant"/>
-<entry field="true" id="35" symbol="menu_label_9"/>
-<entry field="true" id="37" symbol="menu_label_8"/>
-<entry field="true" id="36" symbol="menu_label_7"/>
-<entry field="true" id="39" symbol="menu_label_6"/>
-<entry field="true" id="38" symbol="menu_label_5"/>
-<entry field="true" id="41" symbol="menu_label_4"/>
-<entry field="true" id="40" symbol="menu_label_3"/>
-<entry field="true" id="45" symbol="menu_label_2"/>
-<entry field="true" id="43" symbol="menu_label_1"/>
-<entry field="true" id="46" symbol="menu_label_0"/>
-<entry id="59" method="true" symbol="sendRight"/>
+<entry field="true" id="61" symbol="menu_label_9"/>
+<entry field="true" id="63" symbol="menu_label_8"/>
+<entry field="true" id="62" symbol="menu_label_7"/>
+<entry field="true" id="65" symbol="menu_label_6"/>
+<entry field="true" id="64" symbol="menu_label_5"/>
+<entry field="true" id="67" symbol="menu_label_4"/>
+<entry field="true" id="66" symbol="menu_label_3"/>
+<entry field="true" id="71" symbol="menu_label_2"/>
+<entry field="true" id="69" symbol="menu_label_1"/>
+<entry field="true" id="72" symbol="menu_label_0"/>
+<entry id="85" method="true" symbol="sendRight"/>
+<entry field="true" id="49" symbol="Zwift_Logo"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="67" method="true" symbol="sendElbowFlick"/>
+<entry id="93" method="true" symbol="sendElbowFlick"/>
+<entry field="true" id="38" symbol="Highlighted_Down"/>
 <entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-<entry id="68" method="true" symbol="sendPgUp"/>
-<entry field="true" id="47" symbol="DEVICE_TYPE"/>
+<entry id="95" method="true" symbol="sendPgUp"/>
+<entry field="true" id="73" symbol="DEVICE_TYPE"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="63" method="true" symbol="sendG"/>
-<entry id="9" object="true" symbol="ANT_Generic_CTRL"/>
-<entry field="true" id="20" symbol="Start_Button_Action"/>
-<entry field="true" id="22" symbol="Remote_Control_View"/>
-<entry id="55" method="true" symbol="onMessage"/>
-<entry field="true" id="34" symbol="Start_Button_Action_Title"/>
-<entry field="true" id="18" symbol="my_App_Controller"/>
+<entry id="89" method="true" symbol="sendG"/>
+<entry field="true" id="28" symbol="HighlightedSnapshot"/>
+<entry id="10" object="true" symbol="ANT_Generic_CTRL"/>
+<entry field="true" id="42" symbol="Highlighted_SpaceBar"/>
+<entry field="true" id="19" symbol="Start_Button_Action"/>
+<entry field="true" id="21" symbol="Remote_Control_View"/>
+<entry id="81" method="true" symbol="onMessage"/>
+<entry field="true" id="60" symbol="Start_Button_Action_Title"/>
+<entry field="true" id="17" symbol="my_App_Controller"/>
 <entry field="true" id="8389271" symbol="radioFrequency"/>
 <entry field="true" id="8389246" symbol="transmissionType"/>
-<entry field="true" id="48" symbol="PERIOD"/>
+<entry field="true" id="74" symbol="PERIOD"/>
 <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
-<entry id="69" method="true" symbol="sendPgDown"/>
-<entry field="true" id="44" symbol="Screenshot"/>
-<entry id="58" method="true" symbol="sendUp"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="96" method="true" symbol="sendPgDown"/>
+<entry field="true" id="70" symbol="Screenshot"/>
+<entry id="84" method="true" symbol="sendUp"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry field="true" id="50" symbol="searching"/>
+<entry field="true" id="43" symbol="DefaultSkipBlock"/>
+<entry field="true" id="76" symbol="searching"/>
+<entry field="true" id="46" symbol="HighlightedFtpBiasUp"/>
 <entry id="26" module="true" symbol="Layouts"/>
+<entry field="true" id="27" symbol="DefaultSnapshot"/>
 <entry field="true" id="8389274" symbol="searchThreshold"/>
-<entry field="true" id="32" symbol="Right"/>
+<entry field="true" id="57" symbol="Right"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="24" method="true" symbol="SendAntCommand"/>
-<entry field="true" id="52" symbol="deviceCfg"/>
-<entry id="60" method="true" symbol="sendLeft"/>
-<entry field="true" id="17" symbol="Garmin_Device_Type"/>
+<entry id="23" method="true" symbol="SendAntCommand"/>
+<entry field="true" id="78" symbol="deviceCfg"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="86" method="true" symbol="sendLeft"/>
+<entry field="true" id="16" symbol="Garmin_Device_Type"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="8389425" object="true" symbol="Device"/>
+<entry field="true" id="39" symbol="Default_Right"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry id="70" method="true" symbol="sendSkipBlock"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="97" method="true" symbol="sendSkipBlock"/>
 <entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="44" symbol="HighlightedSkipBlock"/>
 <entry id="25" module="true" symbol="Menus"/>
-<entry id="13" object="true" symbol="Zwift_Remote_ControlApp"/>
-<entry id="66" method="true" symbol="sendSnapshot"/>
-<entry id="12" object="true" symbol="View_01"/>
+<entry id="94" method="true" symbol="sendDevicesPairing"/>
+<entry id="14" object="true" symbol="Zwift_Remote_ControlApp"/>
+<entry id="92" method="true" symbol="sendSnapshot"/>
+<entry id="13" object="true" symbol="View_01"/>
 <entry id="11" object="true" symbol="View_00"/>
+<entry field="true" id="33" symbol="DefaultGraph"/>
+<entry field="true" id="47" symbol="DefaultFtpBiasDown"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry id="64" method="true" symbol="sendGraph"/>
-<entry id="56" method="true" symbol="Send_Command"/>
+<entry id="90" method="true" symbol="sendGraph"/>
+<entry id="82" method="true" symbol="Send_Command"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436002" name="event" stackId="3" startPc="268435922"/>
-<entry endPc="268436169" name="payload" stackId="2" startPc="268435885"/>
-<entry endPc="268436170" name="msg" stackId="1" startPc="268435881"/>
-<entry endPc="268436430" name="cmd_number7" stackId="3" startPc="268436174"/>
-<entry endPc="268436430" name="cmd_number6" stackId="2" startPc="268436174"/>
-<entry endPc="268436430" name="Command_Page_message" stackId="5" startPc="268436174"/>
-<entry endPc="268436430" name="payload" stackId="4" startPc="268436174"/>
-<entry endPc="268436431" name="cmd_number" stackId="1" startPc="268436170"/>
-<entry endPc="268436955" name="view" stackId="1" startPc="268436873"/>
-<entry endPc="268437296" name="event" stackId="1" startPc="268437048"/>
-<entry endPc="268437882" name="swipeEvent" stackId="1" startPc="268437296"/>
-<entry endPc="268438017" name="dc" stackId="1" startPc="268437905"/>
-<entry endPc="268438097" name="dc" stackId="1" startPc="268438022"/>
-<entry endPc="268438237" name="dc" stackId="1" startPc="268438125"/>
-<entry endPc="268438267" name="dc" stackId="1" startPc="268438242"/>
-<entry endPc="268438317" name="dictionary" stackId="1" startPc="268438276"/>
-<entry endPc="268438333" name="color" stackId="1" startPc="268438318"/>
-<entry endPc="268438386" name="dc" stackId="1" startPc="268438333"/>
-<entry endPc="268439040" name="Args" stackId="2" startPc="268438390"/>
-<entry endPc="268439040" name="DeviceSettings" stackId="1" startPc="268438390"/>
-<entry endPc="268439040" name="Actions" stackId="3" startPc="268438390"/>
-<entry endPc="268439115" name="state" stackId="1" startPc="268439041"/>
-<entry endPc="268439120" name="state" stackId="1" startPc="268439115"/>
-<entry endPc="268440296" name="cmd" stackId="1" startPc="268439187"/>
-<entry endPc="268440717" name="item" stackId="1" startPc="268440319"/>
+<entry endPc="268436008" name="view" stackId="1" startPc="268435926"/>
+<entry endPc="268436349" name="event" stackId="1" startPc="268436101"/>
+<entry endPc="268436935" name="swipeEvent" stackId="1" startPc="268436349"/>
+<entry endPc="268437481" name="event" stackId="3" startPc="268437401"/>
+<entry endPc="268437648" name="payload" stackId="2" startPc="268437364"/>
+<entry endPc="268437649" name="msg" stackId="1" startPc="268437360"/>
+<entry endPc="268437909" name="cmd_number7" stackId="3" startPc="268437653"/>
+<entry endPc="268437909" name="cmd_number6" stackId="2" startPc="268437653"/>
+<entry endPc="268437909" name="Command_Page_message" stackId="5" startPc="268437653"/>
+<entry endPc="268437909" name="payload" stackId="4" startPc="268437653"/>
+<entry endPc="268437910" name="cmd_number" stackId="1" startPc="268437649"/>
+<entry endPc="268438045" name="dc" stackId="1" startPc="268437933"/>
+<entry endPc="268438125" name="dc" stackId="1" startPc="268438050"/>
+<entry endPc="268438588" name="item" stackId="1" startPc="268438153"/>
+<entry endPc="268438723" name="dc" stackId="1" startPc="268438611"/>
+<entry endPc="268438753" name="dc" stackId="1" startPc="268438728"/>
+<entry endPc="268439412" name="Args" stackId="2" startPc="268438762"/>
+<entry endPc="268439412" name="DeviceSettings" stackId="1" startPc="268438762"/>
+<entry endPc="268439412" name="Actions" stackId="3" startPc="268438762"/>
+<entry endPc="268439487" name="state" stackId="1" startPc="268439413"/>
+<entry endPc="268439492" name="state" stackId="1" startPc="268439487"/>
+<entry endPc="268440713" name="cmd" stackId="1" startPc="268439559"/>
+<entry endPc="268440758" name="dictionary" stackId="1" startPc="268440717"/>
+<entry endPc="268440774" name="color" stackId="1" startPc="268440759"/>
+<entry endPc="268440827" name="dc" stackId="1" startPc="268440774"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_20025937303563151431" stackId="10" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_20915929314654076619" stackId="5" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_17614894910450182012" stackId="8" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_98687345614719210559" stackId="11" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_56762076217318727221" stackId="9" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_19580985981200063869" stackId="3" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_73900362015892333018" stackId="7" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_selectable_76461653740850139979" stackId="6" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_bitmap_Zwift_Logo" stackId="4" startPc="268441434"/>
+<entry endPc="268443770" name="rez_cmp_local_custom_drawable_15352603062834050485" stackId="2" startPc="268441434"/>
+<entry endPc="268443771" name="dc" stackId="1" startPc="268441422"/>
+<entry endPc="268444754" name="rez_cmp_local_custom_selectable_21094670602935055512" stackId="6" startPc="268443783"/>
+<entry endPc="268444754" name="rez_cmp_local_custom_drawable_89714795268760971018" stackId="2" startPc="268443783"/>
+<entry endPc="268444754" name="rez_cmp_local_bitmap_Zwift_Logo" stackId="3" startPc="268443783"/>
+<entry endPc="268444754" name="rez_cmp_local_custom_selectable_20745910815923546821" stackId="5" startPc="268443783"/>
+<entry endPc="268444754" name="rez_cmp_local_custom_selectable_10790036101277778964" stackId="4" startPc="268443783"/>
+<entry endPc="268444755" name="dc" stackId="1" startPc="268443771"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry accessMode="public" name="initialize" parent="ANT_Generic_CTRL">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="open" parent="ANT_Generic_CTRL">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="closeSensor" parent="ANT_Generic_CTRL">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onMessage" parent="ANT_Generic_CTRL">
-<param id="msg"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="Send_Command" parent="ANT_Generic_CTRL">
-<param id="cmd_number"/>
-<documentation/>
-</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Zwift_Remote_ControlDelegate">
 <documentation/>
 </functionEntry>
@@ -459,6 +525,9 @@
 <functionEntry accessMode="public" name="sendElbowFlick" parent="Zwift_Remote_ControlDelegate">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="sendDevicesPairing" parent="Zwift_Remote_ControlDelegate">
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="sendPgUp" parent="Zwift_Remote_ControlDelegate">
 <documentation/>
 </functionEntry>
@@ -482,6 +551,23 @@
 <param id="swipeEvent"/>
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ANT_Generic_CTRL">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="open" parent="ANT_Generic_CTRL">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="closeSensor" parent="ANT_Generic_CTRL">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMessage" parent="ANT_Generic_CTRL">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Send_Command" parent="ANT_Generic_CTRL">
+<param id="cmd_number"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="View_00">
 <documentation/>
 </functionEntry>
@@ -499,6 +585,13 @@
 <functionEntry accessMode="public" name="onHide" parent="View_00">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Zwift_Remote_ControlMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="Zwift_Remote_ControlMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="View_01">
 <documentation/>
 </functionEntry>
@@ -514,17 +607,6 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onHide" parent="View_01">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="Background">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="setColor" parent="Background">
-<param id="color"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="draw" parent="Background">
-<param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Zwift_Remote_ControlApp">
@@ -545,33 +627,45 @@
 <param id="cmd"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="Zwift_Remote_ControlMenuDelegate">
+<functionEntry accessMode="public" name="initialize" parent="Background">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onMenuItem" parent="Zwift_Remote_ControlMenuDelegate">
-<param id="item"/>
+<functionEntry accessMode="public" name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="MainMenu">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="Layout_00" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="Layout_01" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="246" parentId="globals" symbolId="Zwift_Remote_ControlMenuDelegate" type="class"/>
-<dataEntry offset="309" parentId="globals" symbolId="Zwift_Remote_ControlApp" type="class"/>
-<dataEntry offset="452" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="246" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="317" parentId="globals" symbolId="Zwift_Remote_ControlApp" type="class"/>
+<dataEntry offset="460" parentId="globals" symbolId="Zwift_Remote_ControlMenuDelegate" type="class"/>
 <dataEntry offset="523" parentId="globals" symbolId="View_00" type="class"/>
 <dataEntry offset="602" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry offset="681" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="720" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="759" parentId="Menus" symbolId="MainMenu" type="class"/>
-<dataEntry offset="806" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="837" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="868" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="899" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="1074" parentId="globals" symbolId="ANT_Generic_CTRL" type="class"/>
-<dataEntry offset="1209" parentId="globals" symbolId="View_01" type="class"/>
-<dataEntry offset="1288" parentId="globals" symbolId="Zwift_Remote_ControlDelegate" type="class"/>
+<dataEntry offset="904" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="943" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="990" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1021" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1052" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1099" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1290" parentId="globals" symbolId="ANT_Generic_CTRL" type="class"/>
+<dataEntry offset="1425" parentId="globals" symbolId="View_01" type="class"/>
+<dataEntry offset="1504" parentId="globals" symbolId="Zwift_Remote_ControlDelegate" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

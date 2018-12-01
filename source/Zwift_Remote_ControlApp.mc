@@ -116,7 +116,7 @@ class Zwift_Remote_ControlApp extends App.AppBase
 	// 32776 - F10 = Snapshot
 	// 32777 - SwitchView
 	// 32778 - F1 = ElbowFlick
-	//
+	// 32779 - A - ANT Devices Pairing
 	// 32780 - 0 = View 0
 	// 32781 - 1 = View 1
 	// 32784 - 4 = View 4
@@ -156,7 +156,8 @@ class Zwift_Remote_ControlApp extends App.AppBase
 		else	
 		if (cmd.equals("ElbowFlick"))	{my_ANT_Generic_CTRL.Send_Command(32778);}
 		else	
-
+		if (cmd.equals("DevicesPairing"))	{my_ANT_Generic_CTRL.Send_Command(32779);}
+		else	
 		if (cmd.equals("View_0"))	{my_ANT_Generic_CTRL.Send_Command(32780);}
 		else	
 		if (cmd.equals("View_1"))	{my_ANT_Generic_CTRL.Send_Command(32781);}

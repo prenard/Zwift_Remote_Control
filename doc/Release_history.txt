@@ -7,7 +7,7 @@ It works with a console relay program on your Windows PC hosting Zwift applicati
 Installation procedure:
 
 1) Install the Zwift Garmin CIQ Remote Control application on your Garmin device
-2) Download relay program binaries from https://www.dropbox.com/s/959p7bx9pt09gk8/Zwift-CIQ-RC-Relay_V100.zip?dl=0
+2) Download relay program binaries from https://1drv.ms/u/s!AhLgtT5AuHBajzcVIzNPt225emT_
 3) Unzip these binaries on your Windows PC
 4) Plug 2 ANT USB sticks on your PC (one for Zwift / one for the relay program)
 5) Start the relay program Zwift-CIQ-RC-Relay.exe
@@ -22,7 +22,12 @@ Garmin Device menu can be used to access Views 0-9
 The application is designed to work with touch screen devices (Edge 820/1000/1030) but it can be used with Edge 520 too using arrows buttons to navigate a across keys.
 
 Release History:
-
+- V1.07 - 2018-12-02
+* Add Menu option ESC
+* Must be sync with Relay Program 1.06
+- V1.06 - 2018-12-01
+* Add Menu option A = ANT Devices Pairing
+* Must be sync with Relay Program 1.06
 - V1.05 - 2018-01-21
 * Update Views
 * Add swipe support

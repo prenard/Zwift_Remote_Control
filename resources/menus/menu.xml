@@ -1,4 +1,6 @@
 <menu id="MainMenu">
+	<menu-item id="item_ESC" label="@Strings.menu_label_ESC"/>
+	<menu-item id="item_A" label="@Strings.menu_label_A"/>
 	<menu-item id="item_0" label="@Strings.menu_label_0"/>
 	<menu-item id="item_1" label="@Strings.menu_label_1"/>
 	<menu-item id="item_2" label="@Strings.menu_label_2"/>
@@ -9,5 +11,4 @@
 	<menu-item id="item_7" label="@Strings.menu_label_7"/>
 	<menu-item id="item_8" label="@Strings.menu_label_8"/>
 	<menu-item id="item_9" label="@Strings.menu_label_9"/>
-	<menu-item id="item_A" label="@Strings.menu_label_A"/>
 </menu>

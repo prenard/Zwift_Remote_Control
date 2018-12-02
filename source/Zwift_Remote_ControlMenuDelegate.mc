@@ -15,6 +15,10 @@ class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
     function onMenuItem(item)
     {
         app = App.getApp();
+        if (item == :item_A) {app.SendAntCommand("DevicesPairing");}
+        else
+        if (item == :item_ESC) {app.SendAntCommand("ESC");}
+        else
         if (item == :item_0) {app.SendAntCommand("View_0");} 
         else
         if (item == :item_1) {app.SendAntCommand("View_1");} 
@@ -34,7 +38,5 @@ class Zwift_Remote_ControlMenuDelegate extends Ui.MenuInputDelegate
         if (item == :item_8) {app.SendAntCommand("View_8");} 
         else
         if (item == :item_9) {app.SendAntCommand("View_9");}
-        else
-        if (item == :item_A) {app.SendAntCommand("DevicesPairing");}
     }
 }

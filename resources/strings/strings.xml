@@ -6,6 +6,8 @@
     <string id="Down">Down</string>
     <string id="Screenshot">Screenshot</string>
 
+    <string id="menu_label_ESC">ESC</string>
+    <string id="menu_label_A">A - Devices Pairing</string>
     <string id="menu_label_0">0 - Panorama View</string>
     <string id="menu_label_1">1 - Default View</string>
     <string id="menu_label_2">2 - Third person View</string>
@@ -16,5 +18,4 @@
     <string id="menu_label_7">7 - Spectator View</string>
     <string id="menu_label_8">8 - Helicopter View</string>
     <string id="menu_label_9">9 - Bird's eye View</string>
-    <string id="menu_label_A">A - Devices Pairing</string>
 </strings>
